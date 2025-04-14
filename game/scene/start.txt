@@ -1,0 +1,582 @@
+changeFigure:role_10004_sprites_10015.png -left -next;
+苏茜: （1）
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 夜深了，猫头鹰呜呜的叫着
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 正所谓。月黑风高夜，杀人放火天。
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: （猫头鹰好看吗）
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: （开玩笑的）
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 我们苏西，柯博，以及一位前辈，共同潜入了我们的黑帮
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: （我们该怎么做）
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 由于，我们的炽热鲜血，引开了我们大部分的看守，此时我们的潜入并没有被发现
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 命刻 惊动守卫： 0/6 找到大当家的小女儿： 0/8
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: （这个黑帮的结构是什么样的，我们知道小女儿在哪吗）
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 你们并不知道这个黑帮的结构
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 只能摸索着前进，你只知道小女儿大概在这个地方
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: 这里一层楼有多高，能做到让其他三个猫娘踩着我上去吗
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 这里一层楼大概有3m5高，你可以让别人踩着你上去
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: “分头行动吧，你们踩着我先行去二楼探索，他们应该会把人质绑在二楼以上，但以防万一我留在一楼巡查一下”
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 红钩区黑水船坞藏身所 【地理位置】 位于锈河与海湾交汇处的废弃工业区，三面被生锈的集装箱迷宫包围。潮汐规律被刻意破坏，每日特定时段涨潮会淹没唯一陆路通道，形成天然防御结界。
+changeFigure:role_10004_sprites_10015.png -left -next;
+苏茜: “好吧，我们分头行动”
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 那我接着说，此时，我们的柯博，在侧门，观察到几个黑帮的成员，正在抽某个白色的东西
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 就像是抽陀螺一样
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: 是那个小白脸吗
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: 他是哪个种族的，好看吗
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 然后二楼，几个帮派成员，正在一边打麻将，一边高声的肆意大笑
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: （你是真的饿了）
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: （开玩笑，柯博才不会对男的也动手）
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: （其实男的也不是不行）
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: （除非他没认出来对方是男的）
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: （估计是人族）
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: 看清对方的种族，柯博疑惑，“嗯？怎么是人族，他们为什么会出现在这里？”
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: “不管他了吧，趁着黑帮的人被他吸引，赶紧搜查一下一楼吧”
+changeFigure:role_10004_sprites_10015.png -left -next;
+苏茜: 偷偷绕过二楼那几个黑帮成员
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: （话说黑帮女儿为什么被抓）
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: ( @苏西  过两个敏捷，难度10 )
+changeFigure:role_10004_sprites_10015.png -left -next;
+苏茜: .r 2d10
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 掷骰结果：8+4=12   (2D10) 这结果挺不错的嘛，看来运气不错呢的说～
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: （因为在外面，偷男人！）
+changeFigure:role_10004_sprites_10015.png -left -next;
+苏茜: 悄无声息地绕过他们
+changeFigure:role_10004_sprites_10015.png -left -next;
+苏茜: 走到门口
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 这几个男人还在高声的打着麻将，就像瞎子一样，并没有注意到这里
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 然后，此时，苏西的眼前，是一个未上锁的房间
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 房间内部传来铁笼碰撞的声音，以及隐隐的呜呜声
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: “嘛，这抽陀螺看着还挺好玩的嘛，布怼！我不是来救小女儿的嘛，怎么看起抽陀螺了！诶呀，快快做正事吧！”
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: “在周围看看有没有其他进去的方法吧”
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 这个房子大概成一个品字形排列
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 只有一个门口
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 除了正面的门口，就只剩周围的窗户了
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 你要翻窗进去吗
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: 先看看窗户里面是什么情况吧
+changeFigure:role_10004_sprites_10015.png -left -next;
+苏茜: ”里面会是任务目标吗“这样想着溜进门里
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: 。r 2d8
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 掷骰结果：4+1=5   (2D8) 哎呀，这个结果有点中规中矩的说～
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 柯博凑近了窗户，但是由于柯博带着头盔，视野只有一条缝，并没有看清屋内的情况
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: “诶呀，这头盔就这一点不好啊”
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: “算了！直接进去吧！”
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: #尝试翻窗却发现从内部被反锁了，“诶呀，再找找别的路吧”
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 此时，我们的苏西推开门，这个时候，忽然倒下一个扫把
+changeFigure:role_10004_sprites_10015.png -left -next;
+苏茜: 。r
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 掷骰结果：1=1   (1D0) 这是个有点奇怪的骰子呢，看起来像是出了点小问题的说～
+changeFigure:role_10004_sprites_10015.png -left -next;
+苏茜: .r 2d10
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 掷骰结果：3+9=12   (2D10) 哇哦，这数字挺吉利的说～
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 苏西眼疾手快的，抓住了这个扫把，没有发出任何的声音
+changeFigure:role_10004_sprites_10015.png -left -next;
+苏茜: ”还好反应快喵“
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 就像真正的猫一样，苏西悄无声息的走进了这个房间
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 而我们的苏西，看到了令人惊讶的一幕
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 首先引入眼帘的，是一个宽大的铁笼子，铁笼子內部，装着一个惊恐的女性妖精，嘴巴被封上，身体被非常专业的，绑了一个龟甲缚，一脸震惊的看着右边的大床
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 此时我们的苏西几乎是下意识的向右看去
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 他看到了，一个神似酒馆老板的女人，也被同样的龟甲缚，绑在了床上
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: （至于为什么是女人呢？）
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: （我去，酒馆老板，你怎么也干起这种活了）
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: （因为这个鬼族有两个角）
+changeFigure:role_10004_sprites_10042.png -left -next;
+苏茜: ”这是什么鬼情况“
+changeFigure:role_10004_sprites_10015.png -left -next;
+苏茜: （所以这个女妖精是谁）
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: （这是在玩双飞吗）
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 旁边的椅子上，颓然地坐着一个不是很高的鬼族，目测来看似乎和我们的苏西，差不了多少高
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: （你并不知道这个是谁）
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: （这女妖精是性奴隶吧）
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 此时我们的妖精看到了我们的苏西，惊恐的瞪大了眼睛
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: （OMG，嘘！）
+changeFigure:role_10004_sprites_10015.png -left -next;
+苏茜: （蛄蛹者）
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 蛄蛹着向后蠕动
+changeFigure:role_10028_sprites_10033.png -left -next;
+克里斯蒂娜: 呜呜
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 同时一脸嫌弃
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 此时，我们的苏西打算怎么做呢
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 旁边的男人，似乎处于一种贤者模式
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 并没有注意到你
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: （燃尽了）
+changeFigure:role_10004_sprites_10015.png -left -next;
+苏茜: 掏出剑，试探地探向坐着的鬼族
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 鬼族毫无反应
+changeFigure:role_10004_sprites_10015.png -left -next;
+苏茜: 。r 2d6
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 掷骰结果：3+2=5   (2D6) 哎呀，这结果有点普通呢的说～
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 我们的苏西，即使见过这么多劲爆的场景，此刻的大脑，也依旧宕机了
+changeFigure:role_10004_sprites_10044.png -left -next;
+苏茜: ”这情况我真没见过喵“
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 一个神似酒馆老板的鬼族女性，以及一个神似米尔豪斯的鬼族男性
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 对苏西小小的心灵，造成了大大的震撼
+changeFigure:role_10028_sprites_10034.png -left -next;
+克里斯蒂娜: 旁边的妖精，看着苏西目不转睛的盯着他们脸上的厌恶又加深了几分
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: 。r 2d8
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 掷骰结果：7+2=9   (2D8) 嗯，9点哦，看来今天运气不错呢的说～
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 此时，柯博站在窗外，他隐隐约约的听到室内有什么重物掉在地上的声音
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: 就在刚刚的窗外吗
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: “呼，幸好没进去，看来里面有人啊，换个窗子吧”
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: 继续绕
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 那么柯博，换了一个窗户，请再过一个侦察
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: 。r 2d8
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 掷骰结果：8+6=14   (2D8) 哇哦，这个结果看起来挺不错的呢的说～
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 这个时候，我们的柯博清清楚楚的看清了窗内的景象
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 以他单身多年的经验，一下子，就抓到了最关键的信息
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 这个屋子，不仅有裸着的女人，而且还有大批的木箱子
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: “我去，这难道是性奴隶批发厂？这黑帮也太黑了吧”
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 因为裸着的女人，柯博清晰的看到了，木箱子上的编号 074
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: 里面都是哪些种族的女人
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 只有一个木箱子，被打开了，你认出来，他是属于人类的
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: 她醒着吗
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 双眼无神，不是很清楚
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: 窗锁着吗
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 锁着
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: 敲窗
+changeFigure:role_10004_sprites_10015.png -left -next;
+苏茜: 拿剑绕向鬼族的背后，把剑抵到他的脖子上
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: 试图吸引女人注意
+changeFigure:role_10004_sprites_10015.png -left -next;
+苏茜: 。r 2d10
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 掷骰结果：10+1=11   (2D10) 看来今天运气不错哦，11点的说～
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 我们的苏西悄无声息的移动到了男人的后面，然后用青铜剑砍向他
+changeFigure:role_10004_sprites_10015.png -left -next;
+苏茜: （是青铜剑）
+changeFigure:role_10004_sprites_10015.png -left -next;
+苏茜: .r 1d10+1d8
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 掷骰结果：6+2=8   (1D10+1D8) 看来今天运气不错哦，8点的说～
+changeFigure:role_10046_sprites_10054.png -left -next;
+燃尽了: .st hp 42
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 更新属性： {   "体力"： 42 } 更新好了体力属性，现在是42了的说～
+changeFigure:role_10046_sprites_10054.png -left -next;
+燃尽了: .st hp 32
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 更新属性： {   "体力"： 32 } 好的，体力更新为32的说～
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 那么这个男人受了伤，忽然高声尖叫起来，声音大的，连柯博都可以听见
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: “我嘞个豆，那群女人动静这么大吗！？那我要掩护一下他们才行”
+changeFigure:role_10046_sprites_10054.png -left -next;
+燃尽了: “为什么，我调教了这么多女人，最后居然败在了这个女人的手里”
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: #一拳打碎面前的玻璃，大喊，“有小偷啊！偷女人啦！”
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: 然后跑走，去到先前没能成功打开的窗户
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 那么我们一楼的小弟，成功的被吸引到了打碎窗户的哪个房间
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: 趁着其他人被吸引到了另一个房间，打破这个房间的窗户翻进去
+changeFigure:role_10004_sprites_10015.png -left -next;
+苏茜: .r 1d10+1d6
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 掷骰结果：2+2=4   (1D10+1D6) 这个组合结果挺稳定的嘛，不偏不倚的说～
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 随后男人就像如梦初醒一般，看向了刺向他的苏西
+changeFigure:role_10046_sprites_10054.png -left -next;
+燃尽了: 。r d10 + d6
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 掷骰结果：3+4=7   (1D10+1D6) 哇，7点呢，看起来是个不错的数字的说～
+changeFigure:role_10046_sprites_10054.png -left -next;
+燃尽了: “美丽的女士，虽然感谢你帮我从噩梦之中解脱出去，但是，作为一个淑女，手持兵器未免也太不有优雅了”
+changeFigure:role_10046_sprites_10054.png -left -next;
+燃尽了: 。r d10 + d6
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 掷骰结果：7+2=9   (1D10+1D6) 这个结果挺不错的，看来运气不错呢的说～
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: （哥们你裤子提起来了吗）
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 命刻  一楼，两个小弟，被指走，赶到战场 支援 0/4 二楼，两个打牌的小弟，正在和德克萨斯对峙  0/6 内务，燃尽了，对抗苏西 0/6
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: 我翻进窗之后看到什么了
+changeFigure:role_10004_sprites_10015.png -left -next;
+苏茜: “没有必要和你多废话”继续刺向鬼族
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 你看到了很多手枪
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: 看到一箱子的火器，“什么鬼，这是啥啊？是手枪吗？算了，赶紧去楼上支援他们吧”
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: #柯博前往二楼支援
+changeFigure:role_10004_sprites_10015.png -left -next;
+苏茜: .r 1d10+1d8
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 掷骰结果：5+3=8   (1D10+1D8) 这个结果还不错哦，看来运气挺好的说～
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: 。r 2d8
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 掷骰结果：4+8=12   (2D8) 哇哦，12点呢，看来今天运气不错嘛的说～
+changeFigure:role_10046_sprites_10054.png -left -next;
+燃尽了: 。st hp 21
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 更新属性： {   "体力"： 21 } 好的，体力更新为21的说～
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 此时，男人痛苦的大叫起来，然后我们的柯博悄无声息且快速的，冲到了二楼
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 然后看到德克萨斯，跟两个鬼族的认正在对峙
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: 柯博把大厅的人引到奴隶仓库之后从武器仓库偷偷潜入，迅速支援到了二楼
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: .r 2d10
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 掷骰结果：4+9=13   (2D10) 哇哦，这数字挺吉利的说～
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: .r 2d8
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 掷骰结果：4+1=5   (2D8) 这次的结果是5的说～还算不错呢！
+changeFigure:role_10004_sprites_10015.png -left -next;
+苏茜: .r 1d10+1d8
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 掷骰结果：6+2=8   (1D10+1D8) 这个结果还算不错，挺稳定的说～
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: .r 2d8
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 掷骰结果：1+5=6   (2D8) 这个结果挺中规中矩的说～
+changeFigure:role_10046_sprites_10054.png -left -next;
+燃尽了: .st hp 9
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 更新属性： {   "体力"： 9 } 体力更新为9的说～
+changeFigure:role_10046_sprites_10054.png -left -next;
+燃尽了: "36技，走为上"
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: （哥们，不穿衣服从二楼跳出吗）
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 我们的反派，使用了终结点，成功的从二楼跳了出去，破窗而出
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: 柯博推门而入，“战况如何了！？”
+changeFigure:role_10004_sprites_10015.png -left -next;
+苏茜: 看向旁边被捆住的两人
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 然后柯博一眼就看到了，酒馆老板一样的女人，躺在大床上
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: #看到笼子里和床上被龟甲缚的女人，“哇哦~什么鬼，玩这么花的吗”
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 。r 2d8
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 掷骰结果：1+6=7   (2D8) 这个结果挺不错的，看来运气还不错嘛的说～
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: .r 2d8
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 掷骰结果：3+8=11   (2D8) 这个点数看起来挺不错的，刚好是中间值的说～
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: #看到拿着短剑的苏茜，“敌人呢？去哪了？我听到外屋德克萨斯在战斗”
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 。r 2d8
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 掷骰结果：7+4=11   (2D8) 哇哦，这数字挺吉利的说～
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 。r 2d8
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 掷骰结果：1+2=3   (2D8) 看来今天运气一般般呢，继续加油的说～
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 。r 2d10
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 掷骰结果：5+8=13   (2D10) 这个结果还不错哦，挺稳定的说～
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 。r 2d8
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 掷骰结果：3+1=4   (2D8) 这个结果有点小哦，看来运气还需要再加把劲的说～
+changeFigure:role_10004_sprites_10015.png -left -next;
+苏茜: “敌人逃跑了”
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 。r 2d8
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 掷骰结果：3+7=10   (2D8) 嗯，这结果挺中规中矩的说～
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: “诶呀算了！既然人质已经在这里了，带着她直接走了吧”
+changeFigure:role_10004_sprites_10015.png -left -next;
+苏茜: ”先解救目标吧“
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 你们要先救谁
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: （笼子里的人什么反应）
+changeFigure:role_10028_sprites_10027.png -left -next;
+克里斯蒂娜: 呜呜
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: “什么鬼啊，为什么这里也有个人质啊”
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 他的嘴巴被堵着
+changeFigure:role_10004_sprites_10015.png -left -next;
+苏茜: #摘下妖精嘴里的布”你是谁，为什么在这“
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: “这个屋子里究竟发生过什么啊”
+changeFigure:role_10028_sprites_10016.png -left -next;
+克里斯蒂娜: 呜呜呜误
+changeFigure:role_10028_sprites_10029.png -left -next;
+克里斯蒂娜: 我是，来自精灵国的妖精
+changeFigure:role_10028_sprites_10029.png -left -next;
+克里斯蒂娜: 被精灵卖到这里的
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: “停停停！你们别聊天了，我们还在敌方的大本营呢”
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: “这个猫娘，你快去把小女儿松绑了”
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: “我来试着打开这个笼子”
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: 。r 2d10
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 掷骰结果：1+8=9   (2D10) 不错哦，9点是个挺好的数字的说～
+changeFigure:role_10025_sprites_10010.png -left -next;
+德克萨斯: 。r 2d10
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 掷骰结果：7+10=17   (2D10) 这个结果相当不错呢，看来运气挺好的说～
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: “这鬼笼子怎么这么硬啊”
+changeFigure:role_10004_sprites_10015.png -left -next;
+苏茜: “明明穿着那么重的铠甲，原来这么没力气吗”
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 。r 2d8
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 掷骰结果：7+5=12   (2D8) 这结果挺不错的嘛，看来今天运气不错哦的说～
+changeFigure:role_10004_sprites_10015.png -left -next;
+苏茜: “我来”
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 。r 2d8
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 掷骰结果：5+2=7   (2D8) 看来今天运气不错嘛，刚好是个中等偏上的结果的说～
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: 回复苏茜，“唉，还是怕太用力伤到里面的女士了”
+changeFigure:role_10004_sprites_10015.png -left -next;
+苏茜: .r 2d8
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 掷骰结果：6+1=7   (2D8) 这个结果挺不错的，看来运气不错呢的说～
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: .r 2d8
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 掷骰结果：6+7=13   (2D8) 哇，13点的说～这数字看起来挺吉利的！
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: （这个妖精长得怎么样）
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 。r 2d8
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 掷骰结果：1+5=6   (2D8) 这个结果还算不错，挺平衡的说～
+changeFigure:role_10004_sprites_10015.png -left -next;
+苏茜: #换剑砍
+changeFigure:role_10004_sprites_10015.png -left -next;
+苏茜: .r 1d10+1d8
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 掷骰结果：3+3=6   (1D10+1D8) 这数字挺和谐的说～
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: “那那那，那个黑老大的小女儿，我来给你松绑，快来帮忙救人啊”
+changeFigure:role_10004_sprites_10015.png -left -next;
+苏茜: ”这笼子还真硬喵“
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: #一边松绑一边说，“我一眼就能看出来你比我都有劲，你的话肯定轻而易举就能掰开这个笼子”
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: “诶，你别说，这穿着盔甲还怪难松绑的”
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: over
+changeFigure:role_10047_sprites_10055.png -left -next;
+像酒馆老板的小女儿: “谢谢你，我的白马王子”
+changeFigure:role_10047_sprites_10055.png -left -next;
+像酒馆老板的小女儿: 。r 2d10
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 掷骰结果：9+10=19   (2D10) 哇哦，这数字可真不小呢！看来运气不错嘛的说～
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 我们的小女儿，一下就打开了我们的笼子
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 准确来说，是掰开
+changeFigure:role_10004_sprites_10042.png -left -next;
+苏茜: #震惊.jpg
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: “我去，真是力拔山兮气盖世”
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 就像林黛玉倒把垂杨柳一样
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: “我早就看出来你武力超群啊”
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 轻松且写意的掰开了笼子的铁栏杆
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: “我们快点叫上德克萨斯逃离吧”
+changeFigure:role_10004_sprites_10042.png -left -next;
+苏茜: ”所以这样的人是到底怎么可能被抓住的喵“
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 而我们的妖精顺手且顺便的逃了出去
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: “我看她在外面都杀疯了”
+changeFigure:role_10025_sprites_10010.png -left -next;
+德克萨斯: 撤，敌人已经注意到我们了
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: “跳窗吧，各位！”
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: “我在下面接住你们”
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: 1，2，3，跳！
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: 跳进染缸~
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: 。r 2d8
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 掷骰结果：3+2=5   (2D8) 看来今天运气一般般呢，不过5点也挺不错的说～
+changeFigure:role_10004_sprites_10015.png -left -next;
+苏茜: 。r 2d10
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 掷骰结果：2+3=5   (2D10) 这数字挺中规中矩的说～
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 然后我们的柯博，就跳到一个小石子上，倒在了地上
+changeFigure:role_10004_sprites_10015.png -left -next;
+苏茜: .r 2d10
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 掷骰结果：1+8=9   (2D10) 这个结果挺不错的，看来运气不错呢的说～
+changeFigure:role_10047_sprites_10055.png -left -next;
+像酒馆老板的小女儿: .r 2d6
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 掷骰结果：3+6=9   (2D6) 这个结果挺不错的，感觉运气不错呢的说～
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: 柯博出目5，并没有稳稳落地，而是狼狈地在地上滚了一圈，但还是赶紧起身试图接住身后的队友
+changeFigure:role_10004_sprites_10015.png -left -next;
+苏茜: 。r 1d10
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 掷骰结果：9=9   (1D10) 完美命中，这运气真是杠杠的说～
+changeFigure:role_10025_sprites_10010.png -left -next;
+德克萨斯: 。r 2d10
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 掷骰结果：3+4=7   (2D10) 这个结果挺中规中矩的说～
+changeFigure:role_10025_sprites_10010.png -left -next;
+德克萨斯: “嘁”
+changeFigure:role_10004_sprites_10015.png -left -next;
+苏茜: 苏茜在跳跃时被窗台绊了一跤，但是好在稳住了身形
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 无双了半天的德克萨斯，被一个窗子绊倒了
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: 虽然柯博尝试接住自己的队友，但除了小女儿之外，好像没人愿意跳入他的怀抱
+changeFigure:role_10004_sprites_10015.png -left -next;
+苏茜: 掉在了科博的身上
+changeFigure:role_10004_sprites_10015.png -left -next;
+苏茜: 稳稳地踩了一脚
+changeFigure:role_10004_sprites_10015.png -left -next;
+苏茜: 卸力稳稳落地
+changeFigure:role_10004_sprites_10015.png -left -next;
+苏茜: ”有惊无险喵“
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: “这边可是又险又惊啊！苏茜女士，这动作也太危险了”，柯博后怕地加紧双腿
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 此时，我们的妖精，战战兢兢的站在我们的窗户旁边
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 鬼族的3m5层高对1m2的妖精，就像是3层楼那么高一样
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: 柯博张开双手，“不是姐们，你在干嘛啊，快点跳下来，我能接住你的”
+changeFigure:role_10028_sprites_10014.png -left -next;
+克里斯蒂娜: 。r 2d6
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 掷骰结果：1+5=6   (2D6) 这个结果挺不错的，感觉运气不错呢的说～
+changeFigure:role_10028_sprites_10034.png -left -next;
+克里斯蒂娜: 然后妖精结结实实的摔在了地上
+changeFigure:role_10028_sprites_10033.png -left -next;
+克里斯蒂娜: hp -10
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: 柯博无辜地解释，“真不是我问题吧，我就站在这啊，怎么一个两个都跳不准啊”
+changeFigure:role_10028_sprites_10033.png -left -next;
+克里斯蒂娜: 起来后一脸怨念的看着柯博
+changeFigure:role_10025_sprites_10010.png -left -next;
+德克萨斯: 走吧，任务完成了
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: #扛起妖精，“别这样看着我了，还是先逃跑吧！”
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: 一边跑一边说，“抱歉啊其他的女奴隶们，救不过来，真的救不过来”
+changeFigure:role_10004_sprites_10015.png -left -next;
+苏茜: ”走吧，任务目标完成了“
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 就这样，将来在大陆上留下赫赫威名 的 纯白魔盗团
+changeFigure:role_10045_sprites_10053.png -left -next;
+降星驰: 第一次协作，完成了
+changeFigure:role_10005_sprites_10052.png -left -next;
+柯博: 柯博扛着妖精在夕阳下和两位猫娘一起奔跑，心里想着，“干完这一票就有钱去旅游了，好耶！话说这个妖精该怎么办啊？”
