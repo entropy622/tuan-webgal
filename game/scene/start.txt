@@ -1,584 +1,4337 @@
-changeFigure:role_10004_sprites_10015.png -left -next;
-苏茜: （1） -e010710eb4bae9f1d1d3101d4b6f6f4f.wav
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 夜深了，猫头鹰呜呜的叫着 -57a89662e1ccaa0150a9b9c615247649.wav
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 正所谓。月黑风高夜，杀人放火天。 -868da113e1668c06afacdbb59810b9f5.wav
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: （猫头鹰好看吗） -5c0f8376d91074d7895130ee81fcc4f5.wav
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: （开玩笑的） -9889d1b11e465cb5934788dca5d1aa2b.wav
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 我们苏西，柯博，以及一位前辈，共同潜入了我们的黑帮 -685d14fa77a2e16a0c2937c05e9fae49.wav
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: （我们该怎么做） -270cecb2492ae4d5926c6fb20481bde7.wav
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 由于，我们的炽热鲜血，引开了我们大部分的看守，此时我们的潜入并没有被发现 -a6767c72263bdee5a13305d4c4adec95.wav
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 命刻 惊动守卫： 0/6 找到大当家的小女儿： 0/8 -52b655a8f7011ca7e72f9bf8ff70ab34.wav
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: （这个黑帮的结构是什么样的，我们知道小女儿在哪吗） -5f7204004f5ca7526ce9b44bfa78b093.wav
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 你们并不知道这个黑帮的结构 -92ee79652104f6af8edfae3abf91d495.wav
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 只能摸索着前进，你只知道小女儿大概在这个地方 -ff8caad03c3dcefe9f61bc4e9e794954.wav
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: 这里一层楼有多高，能做到让其他三个猫娘踩着我上去吗 -a82d59ffaf08487ea788e2b819b909e0.wav
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 这里一层楼大概有3m5高，你可以让别人踩着你上去 -03672dfa83621b8c271f314855752e6b.wav
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: “分头行动吧，你们踩着我先行去二楼探索，他们应该会把人质绑在二楼以上，但以防万一我留在一楼巡查一下” -d2d96ffbedefb0f8155837d3717a2bf1.wav
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 红钩区黑水船坞藏身所 【地理位置】 位于锈河与海湾交汇处的废弃工业区，三面被生锈的集装箱迷宫包围。潮汐规律被刻意破坏，每日特定时段涨潮会淹没唯一陆路通道， -485401253054a95d3a883769fe5115b4.wav
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 形成天然防御结界。 -f5e0a0a1617436b850c4f50eb60ad525.wav
-changeFigure:role_10004_sprites_10015.png -left -next;
-苏茜: “好吧，我们分头行动” -c48bf6790b99bc752f6cac14c4056aab.wav
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 那我接着说，此时，我们的柯博，在侧门，观察到几个黑帮的成员，正在抽某个白色的东西 -ac0d16f36437d457d34c9216ac2e1b32.wav
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 就像是抽陀螺一样 -9d0f1d69ad14e6ec9a9f58e595bc53e1.wav
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: 是那个小白脸吗 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: 他是哪个种族的，好看吗 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 然后二楼，几个帮派成员，正在一边打麻将，一边高声的肆意大笑 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: （你是真的饿了） 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: （开玩笑，柯博才不会对男的也动手） 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: （其实男的也不是不行） 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: （除非他没认出来对方是男的） 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: （估计是人族） 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: 看清对方的种族，柯博疑惑，“嗯？怎么是人族，他们为什么会出现在这里？” 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: “不管他了吧，趁着黑帮的人被他吸引，赶紧搜查一下一楼吧” 
-changeFigure:role_10004_sprites_10015.png -left -next;
-苏茜: 偷偷绕过二楼那几个黑帮成员 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: （话说黑帮女儿为什么被抓） 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: ( @苏西  过两个敏捷，难度10 ) 
-changeFigure:role_10004_sprites_10015.png -left -next;
-苏茜: .r 2d10 
+changeBg:E69785E9A686E5898DE58FB0_1746358234563.webp
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: 1 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 2 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 3 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: 4 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 开！ 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 开 
+changeFigure:role_10292_sprites_10467.png -left -next;
+派珀·威尔逊: “那辆车现在，正在燃烧啊……” 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 伴随着派珀的话，氛围陷入一片死寂 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 片刻后妮可颤抖地提问 
+changeFigure:role_10303_sprites_10448.png -left -next;
+妮可: “警官女士……请问……现在是在说什么……” 
+changeFigure:role_10303_sprites_10448.png -left -next;
+妮可: “她说的车，应该不是格蕾丝的那辆吧……” 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 别慌 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 越是这种时候，越是不要慌乱 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 现在慌只会增加寻找的难度 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （让我来魅惑一下） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 别慌别慌 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #握住她的手 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （我有点卡） 
+changeFigure:role_10304_sprites_10452.png -left -next;
+亚当斯: “是啊，妮可，只是一辆车而已，这并不能说明什么” 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 不要慌 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 来颗薄荷糖缓缓吧 
+changeFigure:role_10304_sprites_10452.png -left -next;
+亚当斯: “说不定这只是那个杰克为了消除踪迹干的蠢事罢了” 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （来口小酒） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （提问，我确实不知道，薄荷糖有放松心情的功能吗） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （不如我的魅惑） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: “派伯，能看见车里面有没有什么东西...或者人么？”#已经放下了餐具，手搭在椅背上准备起身了 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （快让我魅惑） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （不到啊） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （可能强效薄荷糖那种清凉的刺激能让一些喜欢这种味道的人冷静吧） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 要不先摸摸cheems吧 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: what can I say 
+changeFigure:role_10292_sprites_10464.png -left -next;
+派珀·威尔逊: “……，很遗憾地，车里有人，或者说……已经是一具尸体了” 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （摸摸狗子放松一下） 
+changeFigure:role_10292_sprites_10422.png -left -next;
+派珀·威尔逊: “不过这并不能代表那就是格蕾丝，现在火势太大，我们还无法进行调查” 
+changeFigure:role_10292_sprites_10422.png -left -next;
+派珀·威尔逊: “我们已经报了火警电话，请你们立刻跟随消防员过来” 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: “操...... 我们马上过去” 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: (把鳄鱼肉带上) 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （方便使用） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （请你们吃鳄鱼） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: (?草) 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （不过鳄鱼肉本来就在后备箱 我们走着太急了肯定是没有把鳄鱼肉放回房间的） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （能把他两带过去吗） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （应该要出事了） 
+changeFigure:role_10303_sprites_10448.png -left -next;
+妮可: #在你们即将动身的时候，妮可拉住了艾洛琳的手，“警官女士……你们已经要把格蕾丝救回来啊……如果她真的因我而死的话……我……我！” 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 别怕，妮可 
+changeFigure:role_10304_sprites_10454.png -left -next;
+亚当斯: #亚当斯急忙拉住妮可，“抱歉，警官女士，妮可她最近情绪都不太好” 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 会赢吗，会赢的 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: “放心，职责所在。而且格蕾丝....肯定会没事的” 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: "能理解，亚当斯。谁碰上这种事心里都不会好受。我们会尽可能的找格蕾丝的" 
+changeFigure:role_10304_sprites_10454.png -left -next;
+亚当斯: “是啊，肯定会没事的，我先带妮可回房间去了，也祝你们顺利” 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: Don't be sad 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: we will bring her to here 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: “嗯”#已经走到门边，招手示意同事们上车 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （不愧是cheems，人语说得非常流利） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: gogogo 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 你们跟随着消防车前进，很快就来到了案发现场 
+changeBg:E5B08FE99587E4B98BE997B4E79A84E585ACE8B7AF_1746359458345.webp
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （应该是晚上的） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #打开执法记录仪 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （神奇天候） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 你们看到在公路边缘有一辆被火焰包围的轿车，火苗已经开始波及四周的杂草树木 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 此时消防车已经到达，四五个消防员已经就位正在用高压水枪进行外围降温。 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （老派呢） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 你们从还没完全被火焰烧毁的车头看出，这是一辆银色或者灰色的三菱蓝瑟，从特征上能对上格蕾丝消失的那辆车 
+changeFigure:role_10292_sprites_10422.png -left -next;
+派珀·威尔逊: #敬礼，“你们来了，我和你们汇报一下情况” 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: yes,sir 
+changeFigure:role_10292_sprites_10422.png -left -next;
+派珀·威尔逊: “我今晚在8.30左右开始出发，打算前往戈德斯伯勒调查” 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 一起一起 
+changeFigure:role_10292_sprites_10422.png -left -next;
+派珀·威尔逊: “结果在路上发现了有什么东西在燃烧，凑近一看发现是一辆车辆” 
+changeFigure:role_10292_sprites_10422.png -left -next;
+派珀·威尔逊: “第一时间我就打了火警电话并且同时了你们，从外表上看，和格蕾丝失踪的车辆特征一致，并且我在车上仅看到一具尸体” 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 能辨识是谁的吗 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: #四处闻闻 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 狗子骰侦查 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: 。rc侦查 
 changeFigure:role_2_sprites_138.png -left -next;
-骰娘: 掷骰结果：8+4=12   (2D10) 这结果挺不错的嘛，看来运气不错呢的说～ 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: （因为在外面，偷男人！） 
-changeFigure:role_10004_sprites_10015.png -left -next;
-苏茜: 悄无声息地绕过他们 
-changeFigure:role_10004_sprites_10015.png -left -next;
-苏茜: 走到门口 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 这几个男人还在高声的打着麻将，就像瞎子一样，并没有注意到这里 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 然后，此时，苏西的眼前，是一个未上锁的房间 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 房间内部传来铁笼碰撞的声音，以及隐隐的呜呜声 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: “嘛，这抽陀螺看着还挺好玩的嘛，布怼！我不是来救小女儿的嘛，怎么看起抽陀螺了！诶呀，快快做正事吧！” 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: “在周围看看有没有其他进去的方法吧” 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 这个房子大概成一个品字形排列 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 只有一个门口 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 除了正面的门口，就只剩周围的窗户了 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 你要翻窗进去吗 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: 先看看窗户里面是什么情况吧 
-changeFigure:role_10004_sprites_10015.png -left -next;
-苏茜: ”里面会是任务目标吗“这样想着溜进门里 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: 。r 2d8 
+骰娘: 侦查检定：D100=62/60 失败 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: （c） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （悲） 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: I hate you 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （我也查一下） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #四处看看 
+changeFigure:role_10292_sprites_10422.png -left -next;
+派珀·威尔逊: “山脚下有一个废品回收站，那里的住户可能会有目击线索，我打算去那里调查一下，现场能交给你们吗” 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: “当然可以” 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 骰侦查 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: Of course 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: .rc侦查 
 changeFigure:role_2_sprites_138.png -left -next;
-骰娘: 掷骰结果：4+1=5   (2D8) 哎呀，这个结果有点中规中矩的说～ 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 柯博凑近了窗户，但是由于柯博带着头盔，视野只有一条缝，并没有看清屋内的情况 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: “诶呀，这头盔就这一点不好啊” 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: “算了！直接进去吧！” 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: #尝试翻窗却发现从内部被反锁了，“诶呀，再找找别的路吧” 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 此时，我们的苏西推开门，这个时候，忽然倒下一个扫把 
-changeFigure:role_10004_sprites_10015.png -left -next;
-苏茜: 。r 
+骰娘: 侦查检定：D100=95/80 失败 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （woc） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （我恨你骰娘） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 派珀朝你们敬了个礼后便驾车离开了 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （差点大失败） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: #也看看四周 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 艾洛琳过侦查 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （我来） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: 。rc侦查 
 changeFigure:role_2_sprites_138.png -left -next;
-骰娘: 掷骰结果：1=1   (1D0) 这是个有点奇怪的骰子呢，看起来像是出了点小问题的说～ 
-changeFigure:role_10004_sprites_10015.png -left -next;
-苏茜: .r 2d10 
+骰娘: 侦查检定：D100=34/65 普通成功 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 艾洛琳在公路旁的草丛中搜索 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （这就是昨天两个大成功的报应吗） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 最终在稍远处的草丛里发现一部并未被波及的手机。 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （至少没失败） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 从邮件和社交媒体的记录来看，这是属于杰克的手机，而最后一条备忘录里打了这样一行字“我不小心杀了格蕾丝，我也不想的，这一切都是一场噩梦，原谅我”。 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （woc） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （没了） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （似————了————） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: #紧皱眉头，咬紧嘴唇，拿起手机展示给同事们 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 随着手机被找到，消防员也成功用水枪镇压了火势 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （嘻嘻） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （其实昨天应该到这里结束的，但是有点太长了） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （邪恶KP） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （昨天杀鳄鱼） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 随着火势被消灭，车辆残骸现在也可以展开调查，你们可以说明想要调查什么地方 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: 初步推测是杰克和格蕾丝遭遇了什么之后车子起火，杰克逃走后不小心丢下了手机 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: “感觉挺有可能的” 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #翻一下杰克的手机 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #看看有没有什么邪教信息 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 过图书馆 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 。rc图书馆 
 changeFigure:role_2_sprites_138.png -left -next;
-骰娘: 掷骰结果：3+9=12   (2D10) 哇哦，这数字挺吉利的说～ 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 苏西眼疾手快的，抓住了这个扫把，没有发出任何的声音 
-changeFigure:role_10004_sprites_10015.png -left -next;
-苏茜: ”还好反应快喵“ 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 就像真正的猫一样，苏西悄无声息的走进了这个房间 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 而我们的苏西，看到了令人惊讶的一幕 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 首先引入眼帘的，是一个宽大的铁笼子，铁笼子內部，装着一个惊恐的女性妖精，嘴巴被封上，身体被非常专业的，绑了一个龟甲缚，一脸震惊的看着右边的大床 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 此时我们的苏西几乎是下意识的向右看去 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 他看到了，一个神似酒馆老板的女人，也被同样的龟甲缚，绑在了床上 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: （至于为什么是女人呢？） 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: （我去，酒馆老板，你怎么也干起这种活了） 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: （因为这个鬼族有两个角） 
-changeFigure:role_10004_sprites_10042.png -left -next;
-苏茜: ”这是什么鬼情况“ 
-changeFigure:role_10004_sprites_10015.png -left -next;
-苏茜: （所以这个女妖精是谁） 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: （这是在玩双飞吗） 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 旁边的椅子上，颓然地坐着一个不是很高的鬼族，目测来看似乎和我们的苏西，差不了多少高 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: （你并不知道这个是谁） 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: （这女妖精是性奴隶吧） 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 此时我们的妖精看到了我们的苏西，惊恐的瞪大了眼睛 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: （OMG，嘘！） 
-changeFigure:role_10004_sprites_10015.png -left -next;
-苏茜: （蛄蛹者） 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 蛄蛹着向后蠕动 
-changeFigure:role_10028_sprites_10033.png -left -next;
-克里斯蒂娜: 呜呜 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 同时一脸嫌弃 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 此时，我们的苏西打算怎么做呢 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 旁边的男人，似乎处于一种贤者模式 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 并没有注意到你 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: （燃尽了） 
-changeFigure:role_10004_sprites_10015.png -left -next;
-苏茜: 掏出剑，试探地探向坐着的鬼族 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 鬼族毫无反应 
-changeFigure:role_10004_sprites_10015.png -left -next;
-苏茜: 。r 2d6 
+骰娘: 图书馆检定：D100=48/75 普通成功 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 你在手机的相册中找到了许多张杰克与格蕾丝的合照，照片上的两人看上去幸福洋溢 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （备忘录呢） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （看看备忘录） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 你尝试翻找杰克的备忘录，却发现备忘录里仅仅只有刚刚那一条信息 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #看看他的聊天记录 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #有没有什么可疑人物 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 你翻找了他的社交平台 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 从7.28日到7.31之间频繁与署名“格蕾丝”的用户交流，在8.1的早上到中午，收到多条来自“老板”的催促上班的消息 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #看看消息记录 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: (和格蕾丝的) 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 看和谁的 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 与“格蕾丝”的聊天记录大多包含着，“亲爱的”“你好可爱”“我又想你了”等信息，而最后一条信息则是和对方相约晚上在戈登维尔州立高中约会 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （时间是什么时候） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 7.31晚 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （抱歉，我忘了七月有31天） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （hhh） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （戈登维尔州立高中离这里有多远） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 距离戈登维尔很近，距离这里则有一段距离 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 你们现在所处的公路位于戈登维尔和戈德斯伯勒之间 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: (看来可能) 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （从旧时光到高中更近吗） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 近，高中和旧时光都在戈登维尔镇内 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 看来是返程的路上出了什么意外 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 也不一定 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: (刚约会完就出这档子事) 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （话说你们不打算再调查一下现场吗） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: (我等你这段说完要再调查的) 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （差不多） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #侦查车辆 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: #前去确认尸体身份，顺便看看座位和旁边有没有什么值得注意的 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （尸体应该是格蕾丝） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 初音过教育，艾洛琳过医学或者司法科学 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: (总之都看看吧 万一呢) 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 。rc教育 
 changeFigure:role_2_sprites_138.png -left -next;
-骰娘: 掷骰结果：3+2=5   (2D6) 哎呀，这结果有点普通呢的说～ 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 我们的苏西，即使见过这么多劲爆的场景，此刻的大脑，也依旧宕机了 
-changeFigure:role_10004_sprites_10044.png -left -next;
-苏茜: ”这情况我真没见过喵“ 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 一个神似酒馆老板的鬼族女性，以及一个神似米尔豪斯的鬼族男性 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 对苏西小小的心灵，造成了大大的震撼 
-changeFigure:role_10028_sprites_10034.png -left -next;
-克里斯蒂娜: 旁边的妖精，看着苏西目不转睛的盯着他们脸上的厌恶又加深了几分 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: 。r 2d8 
+骰娘: 教育检定：D100=67/75 普通成功 这次检定还算不错，学习成果还是挺让人满意的的说～ 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: (那很完蛋了) 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （为什么是教育） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: 。rc医学 
 changeFigure:role_2_sprites_138.png -left -next;
-骰娘: 掷骰结果：7+2=9   (2D8) 嗯，9点哦，看来今天运气不错呢的说～ 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 此时，柯博站在窗外，他隐隐约约的听到室内有什么重物掉在地上的声音 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: 就在刚刚的窗外吗 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: “呼，幸好没进去，看来里面有人啊，换个窗子吧” 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: 继续绕 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 那么柯博，换了一个窗户，请再过一个侦察 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: 。r 2d8 
+骰娘: 医学检定：D100=9/1 失败 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （哇） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （大成功水平） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （果然非专业人士不该干法医的活） 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: （因为你没点医学） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 车辆整体都燃烧碳化，加上高压水枪留下的痕迹，几乎无法从外观上得到线索。但你观察出车辆的着火点是从后排座位下的油箱开始， 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 并且在燃烧前燃料就已经流出并布满车辆周围的地面，并不像意外事故。 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （能看到油箱吗） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: “看着完全像是陷害啊...” 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: (油箱是固定在车体里面的) 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 确实像是陷害 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 艾洛琳虽然没能调查出什么，但是她从从因为挛缩而被肢体包围保护的胸口找到衣服的布料和放在胸前口袋的证件。 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: (等一下) 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 尽管证件被烧灼变黑，仍能看出上面写着什么 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （那个胶卷） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （摄影师的胶卷还没放） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: (胶卷现在应该是还没送去冲洗吧) 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 上面写着 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 赛马场的工作证…… 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 员工： 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 杰克！ 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （啊） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （杰克！） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （啊？） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （哈哈） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （惊喜吗） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （格蕾丝是要拉去献祭了吗） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （肯定是陷害啊） 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: 但这样的话解释不清为什么杰克的手机会出现在外面的草丛里 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: #有些错愕地再看了两眼证 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: 格蕾丝拿走了杰克的手机吗 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 杀了再拿出来不就行了 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （还是得等法医确定尸体性别） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 不会格蕾丝才是Boss吧 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 由于你们并不拥有任何医学的知识，所以无法从尸体上判断出任何信息，包括性别 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （？） 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: （法医呢救一下啊） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （我不能切开他的裤子看看吗） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 此时，派珀驾车归来 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （。） 
+changeFigure:role_10292_sprites_10422.png -left -next;
+派珀·威尔逊: “伙计们，调查的怎么样了” 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #展示手机 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #展示证件 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: “在尸体上发现了杰克的证件，以及旁边草丛里的手机。不过还是不能确定这具尸体就是杰克” 
+changeFigure:role_10292_sprites_10422.png -left -next;
+派珀·威尔逊: #记录了你们调查到的线索，“突然变得有些扑朔迷离了，让我来看看尸体吧” 
+changeFigure:role_10292_sprites_10422.png -left -next;
+派珀·威尔逊: 。rc医学 
 changeFigure:role_2_sprites_138.png -left -next;
-骰娘: 掷骰结果：8+6=14   (2D8) 哇哦，这个结果看起来挺不错的呢的说～ 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 这个时候，我们的柯博清清楚楚的看清了窗内的景象 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 以他单身多年的经验，一下子，就抓到了最关键的信息 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 这个屋子，不仅有裸着的女人，而且还有大批的木箱子 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: “我去，这难道是性奴隶批发厂？这黑帮也太黑了吧” 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 因为裸着的女人，柯博清晰的看到了，木箱子上的编号 074 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: 里面都是哪些种族的女人 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 只有一个木箱子，被打开了，你认出来，他是属于人类的 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: 她醒着吗 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 双眼无神，不是很清楚 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: 窗锁着吗 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 锁着 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: 敲窗 
-changeFigure:role_10004_sprites_10015.png -left -next;
-苏茜: 拿剑绕向鬼族的背后，把剑抵到他的脖子上 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: 试图吸引女人注意 
-changeFigure:role_10004_sprites_10015.png -left -next;
-苏茜: 。r 2d10 
+骰娘: 医学检定：D100=78/30 失败 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （才30） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （让我来） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #切开尸体的裤子 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （不是哥们） 
+changeFigure:role_10292_sprites_10422.png -left -next;
+派珀·威尔逊: “不行，尸体损毁地太严重了，可能要送完医院调查才行” 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: （烧焦了哪来的裤子） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （人家是烧死的啊） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （衣服都和皮肤烧成一块儿了） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （好嘛） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （器官肯定也成一坨焦炭了） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （哪怕真有，那里现在肯定也烧成灰了） 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: （悲） 
+changeFigure:role_10292_sprites_10422.png -left -next;
+派珀·威尔逊: #派珀又和你们说，“我刚刚询问了山脚下的那户人家” 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: #喝点酒 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （酒鬼） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （又不能加伤） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #借点Ryley的酒 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #给鳄鱼肉去腥 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （还惦记着鳄鱼肉呢） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （准备卖给这里的人家） 
+changeFigure:role_10292_sprites_10422.png -left -next;
+派珀·威尔逊: “他们说在睡梦中突然感觉到窗外传来光芒，以为是抛锚的汽车因此起夜查看情况，发现那貌似是一辆燃烧的汽车，但他们没有注意到任何人出入过车辆附近” 
+changeFigure:role_10292_sprites_10422.png -left -next;
+派珀·威尔逊: #注意到你们的动作，“话说那个黑袋子里装的是什么，为什么往里面倒酒” 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 新鲜的鳄鱼肉 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 下午才杀的 
+changeFigure:role_10292_sprites_10422.png -left -next;
+派珀·威尔逊: “……，容我提醒一下，私自捕猎野生鳄鱼是违法的” 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （真的吗） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 害人的鳄鱼肉 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （或许是吧） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 他吃人 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 我吃他 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: #叉腰扶额把视野转向远方，不太愿意看那坨鳄鱼肉 
+changeFigure:role_10292_sprites_10422.png -left -next;
+派珀·威尔逊: “既然是正当防卫的话，那我就不过问了” 
+changeFigure:role_10292_sprites_10422.png -left -next;
+派珀·威尔逊: “还有一件事，之前送去照相馆的胶卷已经冲洗好了” 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #看 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: #看看 
+changeFigure:role_10292_sprites_10422.png -left -next;
+派珀·威尔逊: “此刻正在戈登维尔的照相馆里等待认领，正好我们也需要把这具尸体送到医院去调查一下，今天就先回戈登维尔吧” 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: ok 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 睡觉睡觉 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （终于要会满了） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: “唉....回去吧。今天真是发生了大堆事” 
+changeFigure:role_10292_sprites_10422.png -left -next;
+派珀·威尔逊: “你们的车辆看起来有些过于拥挤了，这个尸体就放在我的车上吧，我先和同事收拾一下尸体，你们先行前往戈登维尔吧” 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 此时派珀的同事们正在小心翼翼地用裹尸袋装尸，估计要花不少时间 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: gogogo 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 走吧 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: #继续喝点酒 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 唉唉，酒鬼 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 帮一下 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #前去帮忙 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: #给自己点上一根烟，整个人疲倦的松垮下来 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （不会要过什么吧） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 你们也是老样子，由艾洛琳驾驶车辆，沿着来时的路返程了 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 真是疲惫的一天啊，真想赶快躺在床上美美的睡上一觉 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 疲倦感涌来，让正在驾驶的艾洛琳都差点有些分心了 
+changeBg:E68888E5BEB7E696AFE4BCAFE58B92E5B1B1E8B7AF_1746361848560.webp
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: #喝酒喝到睡着了 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （快减速） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （要出事） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: #再给自己点上一根烟猛吸了一大口 试图提神 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 就在你们返回戈登维尔的路上，在经过吉利斯山路时，你们注意到在道路右侧，马尔格雷夫河分支对岸稍远处，有一摊缓缓移动的黑色物体突兀出现。 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （能看清吗） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 在河流的对面，那摊黑色的物体此时在缓慢的蠕动，但由于夜色过暗你们并不能看清楚 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 河流看起来很浅，很轻松就能趟过去 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: #被烟呛醒了 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （我觉得可以去看看啊） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 要凑近点看看吗 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: “呃，不好意思....”#不过没有把烟丢掉 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （离车远吗） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: “你们还想过去看看吗？” 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （能开车过去吗） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 那摊物体在公路旁的自然公园内，在河流的对岸，由于有树木的遮挡，所以并不能开车过去 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #拿出手电筒 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: #试试用手机的摄像功能放大看那个地方 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: “正好未来也帮忙拿手电筒照亮一下” 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #往那个方向照 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 你们用手电筒配合手机，勉强看清了那摊物体的轮廓 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 那看起来…… 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 像是一个人？！ 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （啊） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: #泼水 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （我勒个去） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （不会是格蕾丝吧） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （伪人说是） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （两个人缓慢靠近） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （一个人拿手机） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 就艾洛琳和初音去吗 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （一个人照明行不行） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （剩下你们去不） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: cheems呢 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （来一个吧） 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: #出击 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （留一个人守车） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （万一车没了） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （估计人就没了） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: ryley和哈里有想要一起去看看的吗 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: #跟上 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （要不cheems就守车） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （我们四个去） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （我嘞个cheems守车啊） 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: （车又不是没钥匙） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （布鲁斯，你可以的！） 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: （小偷要把车抗走吗） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （主要怕怪） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: ryley怎么说 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （把车子损毁了） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （小偷：rc短接大成功！） 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: （怪来了一个人能干什么） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 1 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （也是啊） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 我不想下去 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: #留下 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 好，那就艾洛琳、哈里、初音三个人 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 嘻嘻 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 来吧 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #慢慢靠近 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #拿手电筒照着 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #用手机看 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （？😰） 
+changeFigure:role_10294_sprites_10425.png -left -next;
+卑微KP: 你们拿着手机，打着手电筒靠近了那具人体 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 防备周围 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （KP黑化了！） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （这是什么b东西） 
+changeFigure:role_10294_sprites_10425.png -left -next;
+卑微KP: 在靠到足够近的时候你们终于看清了它的具体样貌 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （不是有手机吗） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: #拔枪 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （应该会远一点吧） 
+changeFigure:role_10294_sprites_10425.png -left -next;
+卑微KP: 那是一具包裹着零碎的布料的人体，全身遍布烧灼的痕迹，布料和皮肤粘连在一起，变成了一个炙烤过的人肉木乃伊，散发出烧焦脂肪夹杂着助燃剂的令人作呕的味道。 
+changeFigure:role_10294_sprites_10425.png -left -next;
+卑微KP: 从烧焦布料边缘露出的皮肤焦黑炭化，变得如同皮革一般坚硬的皮挂在粉红色的肉上摇摇欲坠。 
+changeFigure:role_10294_sprites_10425.png -left -next;
+卑微KP: 它的头发完全烧化，面部五官已经完全无法辨识，嘴唇脱落、露出牙齿的口中发出像是怪物一样嘶哑的呻吟。 
+changeFigure:role_10294_sprites_10425.png -left -next;
+卑微KP: 让人感觉到不可思议的是，这个“人”即使看起来已经没救了，却还残留着一口气，不过它已经缺乏皮肉的嘴和被灼烧过的声带的已经无法发出完整的声音。 
+changeFigure:role_10294_sprites_10425.png -left -next;
+卑微KP: 目睹这一幕的所有人，sc 1/1d6。 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 。sc1/1d6 
 changeFigure:role_2_sprites_138.png -left -next;
-骰娘: 掷骰结果：10+1=11   (2D10) 看来今天运气不错哦，11点的说～ 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 我们的苏西悄无声息的移动到了男人的后面，然后用青铜剑砍向他 
-changeFigure:role_10004_sprites_10015.png -left -next;
-苏茜: （是青铜剑） 
-changeFigure:role_10004_sprites_10015.png -left -next;
-苏茜: .r 1d10+1d8 
+骰娘: 未知命令 sc 看起来你输入了一个我不太明白的命令呢，试试让我帮你掷个骰子吧！的说～ 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （立绘2终于放出来了） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （我草了 死这么恐怖还没完全死透的最掉san了） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 。st san 59 
 changeFigure:role_2_sprites_138.png -left -next;
-骰娘: 掷骰结果：6+2=8   (1D10+1D8) 看来今天运气不错哦，8点的说～ 
-changeFigure:role_10046_sprites_10054.png -left -next;
-燃尽了: .st hp 42 
+骰娘: 更新属性： {   "san值"： 59 } 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: .st san 61 
 changeFigure:role_2_sprites_138.png -left -next;
-骰娘: 更新属性： {   "体力"： 42 } 更新好了体力属性，现在是42了的说～ 
-changeFigure:role_10046_sprites_10054.png -left -next;
-燃尽了: .st hp 32 
+骰娘: 更新属性： {   "san值"： 61 } 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: 。st san69 
 changeFigure:role_2_sprites_138.png -left -next;
-骰娘: 更新属性： {   "体力"： 32 } 好的，体力更新为32的说～ 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 那么这个男人受了伤，忽然高声尖叫起来，声音大的，连柯博都可以听见 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: “我嘞个豆，那群女人动静这么大吗！？那我要掩护一下他们才行” 
-changeFigure:role_10046_sprites_10054.png -left -next;
-燃尽了: “为什么，我调教了这么多女人，最后居然败在了这个女人的手里” 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: #一拳打碎面前的玻璃，大喊，“有小偷啊！偷女人啦！” 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: 然后跑走，去到先前没能成功打开的窗户 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 那么我们一楼的小弟，成功的被吸引到了打碎窗户的哪个房间 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: 趁着其他人被吸引到了另一个房间，打破这个房间的窗户翻进去 
-changeFigure:role_10004_sprites_10015.png -left -next;
-苏茜: .r 1d10+1d6 
+骰娘: 更新属性： {   "san值"： 69 } 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 看到这惊悚的一幕，你们三人都又被稍微吓到，但你们的职业素养让你们很快冷静了下来 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #拔刀 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 各位有什么想做的 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #保持适当的距离，尝试沟通 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: #拨打急救电话 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: （尝试和还剩一口气的人沟通吗） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （应该行吧） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （估计救不会来了） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （看他的毅力罢） 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: #用手机拍照 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 缺乏皮肉的嘴和被灼烧过的声带的已经无法发出完整的声音，嘴唇脱落、露出牙齿的口中只能发出像是嘶哑一样的呻吟 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #打开执法记录仪 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 你听得懂我们说话吗 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 听得懂就喊一声 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 对方口中只是发出呻吟 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: “ci” 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 你们身后传来了派珀的声音 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: woc，真的诗人 
+changeFigure:role_10292_sprites_10422.png -left -next;
+派珀·威尔逊: “伙计们，发生什么了，你们怎么突然停车了” 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （真正诗人） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 由于你们的身形阻挡，派珀暂时还没看见那具人体 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: “这地上躺着一个......人” 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: (hhp不是有急救吗) 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （救一下） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: (我感觉有点爱莫能助了 不过KP怎么说) 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （急救也只是急救啊，这种情况已经不是急救可以救的了） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: "你先别过来,他好像受了很大的折磨" 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （啊） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （你难道指望你赤手空拳能救一个已经烧焦的人吗） 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: （我拍照拍下来没） 
+changeFigure:role_10292_sprites_10422.png -left -next;
+派珀·威尔逊: “是又有受害者了吗？让我看看”，派珀试图上前看清情况 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: (是这样的 就算是一个执勤警员身上平时带的药品肯定也治不好一个全身烧伤) 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （拍下来了） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 你是格蕾丝吗 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 是的话叫一声 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 你这个情况，我们只能帮你找出凶手了 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 从你们发现它到现在，它一直都没有停止过呻吟 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: “说实话我确实不建议你看这具...人体，但是，呃...唉，自便吧” 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （有什么规律吗） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （想不想摩尔斯电码） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: “而且现在从他这什么都问不出来 我们还是早点把它送到医院为好” 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （是不是摩尔斯电码） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 毫无规律 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: OK，既然没人阻止派珀的话 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （受这么严重的伤真的还有心思说摩斯代码吗） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （这个阻止不了吧） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （感觉他铁了心要看） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （格蕾丝是一个坚强的人（） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 。st san49 
 changeFigure:role_2_sprites_138.png -left -next;
-骰娘: 掷骰结果：2+2=4   (1D10+1D6) 这个组合结果挺稳定的嘛，不偏不倚的说～ 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 随后男人就像如梦初醒一般，看向了刺向他的苏西 
-changeFigure:role_10046_sprites_10054.png -left -next;
-燃尽了: 。r d10 + d6 
+骰娘: 更新属性： {   "san值"： 49 } 
+changeFigure:role_10292_sprites_10467.png -left -next;
+派珀·威尔逊: “哦……我的主啊，这到底是经历了什么啊” 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （草） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （钢铁意志的警察） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: #拍拍派伯的肩膀然后把她拉回来 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: “呜~呜~呜~”，救护车很快来到了现场 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （医护人员都快要过SC了） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: “伤员伤势严重，立刻送往医院救援！”，医护人员没有多余的行动，很快就把那具人体带上了救护车 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （医护人员可能见得多了） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （算了吧，他们要是疯了，kp就要跟着疯了） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （只是这么一说） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 救护车很快离开了，你们呢 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （真要较真的话还有执业经历包这种东西呢 医护人员肯定早看的多了） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #侦查周围 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: #最后扫一眼附近的地上有没有什么东西 用手电筒照着看 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 过侦查 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 。rc侦查 
 changeFigure:role_2_sprites_138.png -left -next;
-骰娘: 掷骰结果：3+4=7   (1D10+1D6) 哇，7点呢，看起来是个不错的数字的说～ 
-changeFigure:role_10046_sprites_10054.png -left -next;
-燃尽了: “美丽的女士，虽然感谢你帮我从噩梦之中解脱出去，但是，作为一个淑女，手持兵器未免也太不有优雅了” 
-changeFigure:role_10046_sprites_10054.png -left -next;
-燃尽了: 。r d10 + d6 
+骰娘: 侦查检定：D100=22/80 困难成功 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （woc） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: 。rc侦查 
 changeFigure:role_2_sprites_138.png -left -next;
-骰娘: 掷骰结果：7+2=9   (1D10+1D6) 这个结果挺不错的，看来运气不错呢的说～ 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: （哥们你裤子提起来了吗） 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 命刻  一楼，两个小弟，被指走，赶到战场 支援 0/4 二楼，两个打牌的小弟，正在和德克萨斯对峙  0/6 内务，燃尽了，对抗苏西 0/6 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: 我翻进窗之后看到什么了 
-changeFigure:role_10004_sprites_10015.png -left -next;
-苏茜: “没有必要和你多废话”继续刺向鬼族 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 你看到了很多手枪 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: 看到一箱子的火器，“什么鬼，这是啥啊？是手枪吗？算了，赶紧去楼上支援他们吧” 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: #柯博前往二楼支援 
-changeFigure:role_10004_sprites_10015.png -left -next;
-苏茜: .r 1d10+1d8 
+骰娘: 侦查检定：D100=72/65 失败 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （草 报应来了） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 你看向人体爬行的痕迹，观察出来对方应该是从山里出来了 
+changeFigure:role_10351_sprites_10505.png -left -next;
+哈里·卡拉汉: 。rc侦查 
 changeFigure:role_2_sprites_138.png -left -next;
-骰娘: 掷骰结果：5+3=8   (1D10+1D8) 这个结果还不错哦，看来运气挺好的说～ 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: 。r 2d8 
+骰娘: 侦查检定：D100=73/75 普通成功 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （ryley你也不在这边 侦察啥） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: （不好意思） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （那我的困难呢） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: (没事) 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （一样） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #用手电筒照一下山上 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: “他是在山里受了这么重的伤？” 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （能知道这里的位置吗） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 现在已经接近晚上十点了，山中漆黑一片，具体的痕迹难以摸清，几乎无法追踪到来源 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 你们现在位于吉利斯山路，戈登维尔的附近群山环绕，这是其中的一座山 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #用手机查一下 吉利斯山路 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #看看有没有发生什么神奇的事情 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 就和其他偏僻的山路一样，你几乎只能查到它的位置所在，除此之外查不到别的信息了 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （我能对着这个山过一个克苏鲁或者神秘学吗） 
+changeFigure:role_10292_sprites_10422.png -left -next;
+派珀·威尔逊: #派珀向你们提问，“各位接下来什么打算，我这边还是打算先把尸体送到医院去化验一下吧” 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （不能） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （你从哪看出来这里有神秘学或者克苏鲁元素了） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （coc） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: “我们接下来准备回镇子上了，先去旧时光休整休整” 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 那就回去睡觉 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #在这里插一个信标 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （你们还有什么打算吗 反正还有不少是都是在镇子上的） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #手机地图也标识号 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （还有信标？好家伙） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #手机地图标识好 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （明天早上再来看） 
+changeFigure:role_10292_sprites_10422.png -left -next;
+派珀·威尔逊: “嗯，我去医院之后会顺便观察刚刚那个人的情况的，对了，记得去照相馆拿胶卷” 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （晚上要被撕卡的） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （一看就是危险地段） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （包的） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #回去睡觉 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 还拿胶卷吗 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: “我们也都回去吧” 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （我去拿） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: OK 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 你们开车回到了旧时光旅馆，刚到门口就看见妮可和亚当斯站在门口焦急地等待 
+changeBg:E2809CE697A7E697B6E58589E2809DE99D92E5B9B4E69785E9A686_1746364165488.webp
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （可惜没夜晚场景） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 你们刚一下车他们就急忙询问你们的进展 
+changeFigure:role_10303_sprites_10448.png -left -next;
+妮可: “警官女士，有找到格蕾丝的踪迹吗” 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: #摇摇头“那辆着火的车确实是她的。车上只有一具尸体，大概率是杰克” 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: “还找到一些其他的...”#把手机和证件给他们俩描述一下 
+changeFigure:role_10303_sprites_10448.png -left -next;
+妮可: #听到你的话，妮可双腿颤抖几乎快要站立不住了，“什么……意思……格蕾丝被杰克杀了吗？” 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: “不是不是不是.....那个尸体大概不是格蕾丝” 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 而是杰克 
+changeFigure:role_10303_sprites_10448.png -left -next;
+妮可: “可是，那个手机里说的杀了格蕾丝又是怎么回事？” 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 这不是意外事故 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 事故是油箱破裂 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （草 这么看来暂时不该把手机消息和她说的） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 漏油造成的 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （确实不该说的） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 而如果杰克杀了格蕾丝 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （他们两人今晚要睡不好觉了） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 那么为什么要把车烧了 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 不应该是开车逃亡吗 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: 我猜……是格蕾丝为了让我们误以为死的人是她吧，否则手机不会掉在那个地方的 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 也是 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （浅浅怪罪一下自己） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 因为要逃离她的父母 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 而自己假死脱身是最好的选择 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: “她这真是...下定决心啊” 
+changeFigure:role_10303_sprites_10448.png -left -next;
+妮可: #妮可开始大口地喘气，语气中带着些许颤抖，“可是……可是这一切都不能说明格蕾丝她现在没事啊！难道是格蕾丝杀了杰克吗！？哪怕格蕾丝再无奈她也不会做出这种事的！！！ 
+changeFigure:role_10303_sprites_10448.png -left -next;
+妮可: ” 
+changeFigure:role_10303_sprites_10448.png -left -next;
+妮可: #妮可的情绪越来越激动，说到最后甚至晕了过去 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 万一格蕾丝发现杰克对她的爱是假的呢 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: (😭) 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 不要害怕 
+changeFigure:role_10304_sprites_10451.png -left -next;
+亚当斯: “…………” 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 不要害怕 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: （追着杀啊） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （魅惑一下） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （申请魅惑） 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: （人都破防了还魅惑什么） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （能的） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （晕了怎么魅惑啊） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 在真相没有出来之前 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: （byd太初生了） 
+changeFigure:role_10304_sprites_10451.png -left -next;
+亚当斯: #亚当斯扶住妮可的身体，“警官们，抱歉了，可以让我们先自己待一会儿吗，我们需要好好冷静一下” 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 现在所有的猜测都是臆想 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （魅惑安抚嘛） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （又不是要他们干什么） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （我觉得妮可的感情线要来了（） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （难道还有百合） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （妮可和亚当斯） 
+changeFigure:role_10348_sprites_10501.png -left -next;
+艾洛琳.席桑达: “.....不好意思，当然”#默默让开 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #拍拍肩膀，表示宽慰 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （c） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （又打错） 
+changeFigure:role_10304_sprites_10451.png -left -next;
+亚当斯: #亚当斯的脚步近乎机械，他只是木讷地扶着妮可回到了她的房间，然后又独自一人回到了自己的房间 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （平台支持双击消息进行更改） 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: Don't be sad,my friend 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 好了，现在你们有哪些人要去照相馆的，又有哪些是想现在就留下休息的 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 一番折腾，现在已经是晚上十点半了 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 睡觉睡觉 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （我去照相馆） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （先回血先回血） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: #刚才悄悄走开了 重新出现时手上多了一罐咖啡 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: #出发 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: Let's go 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （剩下两个怎么说） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 走吧 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: #灌了一大口咖啡 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: (我将以狗子形态出击) 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （哈里呢） 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: #跟着去照相馆 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: OK 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （这一世魂穿狗子） 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: Let's go 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （到旅馆了不会在让我过什么了吧） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （应该不会了罢） 
+changeBg:E8939DE99B8FE88F8AE785A7E79BB8E9A686_1746364981989.webp
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 你们一行人来到了照相馆，照相馆其他的灯都已经关了，只剩一盏前台的灯已经留着，老板趴在前台看起来睡眼惺忪，看到了你们警车的到来一下子来了精神 
+changeFigure:role_10314_sprites_10483.png -left -next;
+照相馆老板: “诶呀，警官们，你们终于来了，我等你们好久了” 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: “谢谢您了老板” 
+changeFigure:role_10314_sprites_10483.png -left -next;
+照相馆老板: #拿出一沓胶卷，“这个就是你们要求冲洗出来的胶卷，给” 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: where are the photos 
+changeFigure:role_10314_sprites_10483.png -left -next;
+照相馆老板: #随后又有些紧张地问你们，“那个，警官女士，我能问一些问题吗” 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: Let me see see 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: “”当然可以，请说“ 
+changeFigure:role_10314_sprites_10483.png -left -next;
+照相馆老板: #有些担忧地问，“这个胶卷的主人是发生什么了吗？你们带过来的那个包我认识，我挺担心它主人的情况的” 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （怎么说） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （我卡了吗） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: ”她...“#刚准备开口又犹豫着闭嘴了，示意自己希望自己两位同事代为回答 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （可不敢乱说.jpg） 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: we're sad  to tell you that the master of the bag happened something. 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: (会讲英语的狗子还是太超模了) 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: It's a bad thing 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （你觉得她真的能听懂狗子的话吗） 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: 胶卷的主人最近失踪了，我们是来找她的，放心，这种失踪案我们办的多了，大部分都是离家出走的，过个几天就乖乖回家了 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: (我觉得实际上我们都听不懂) 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 66 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （靠谱硬汉） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （在她的视角看来应该是一只狗子在声情并茂地汪汪） 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: (按照视频来说cheems是可以讲英语的) 
+changeFigure:role_10314_sprites_10483.png -left -next;
+照相馆老板: “是吗，那真是太好了，其实我挺喜欢那个姑娘的，她总是十分热情，我还关注了她的博客呢” 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: Wow 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （声情并茂笑死我了） 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: 嗯……能把她的博客账号给我吗，或许能找到些她的线索 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （但是我们的cheems并非cheems本尊，是初音有感而发给它取名cheems的） 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: (yep) 
+changeFigure:role_10314_sprites_10483.png -left -next;
+照相馆老板: #拿出手机，“当然了，您看，就是这个” 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: Let me see 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: #拿出自己的手机记下账号 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 博客看起来都是作品集的展示和日记，最后一篇在 2022年 7 月 18 日更新。 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: （昨天加了个图片放大的功能） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （有吗，怎么放大） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （挺好） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （直接滚轮就行） 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: (鼠标滚轮) 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （我怎么好像不行） 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: (？不会是浏览器的问题吧) 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: 发个截图 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （等会，时间？我们这个团开始的时候是哪年） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （艹） 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: （也没有放大的UI，怪） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （怎么原模组还有bug啊） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （改成2012年） 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: （怪） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （确实怪） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （笑死我了） 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: OK, I see 
+changeFigure:role_10314_sprites_10483.png -left -next;
+照相馆老板: “警官们，你们还有什么想要了解的吗，如果没有的话我就先回去休息了” 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: 可以说说你是怎么认识包的主人的吗 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: (等一下，狗子hp多少) 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （bug改了） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （我勒个秒改） 
+changeFigure:role_10314_sprites_10483.png -left -next;
+照相馆老板: “诶呀，那个小姑娘真的很懂摄影啊，她经常回来我的店里冲洗胶卷，一来二回我们就认识了” 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （胶片佬最后的辉煌） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （狗子应该是9hp） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 你们要现在查看胶卷吗 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: （跟初音一样脆） 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: （狗子要过san吗） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （要的） 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: （狗子不看了） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （我血量只比狗子高一点） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: ”要不我们把胶卷带回去看吧？老板看起来也要打烊了“ 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （hh） 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: #看 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: 行 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （经典） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （警犬壮实应该的hh） 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: （狗子灵感比我们强） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 晚上十一点 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 你们又一次开车回到了旅馆 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 毫不意外 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （睡死了） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 初音已经酣睡在床上了 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 于是你们三人一狗来到了另一个房间查看胶卷 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （我突然有种想一脚把初音踹醒的罪恶想法） 
+changeBg:E69785E9A686E688BFE997B4_1746366110046.webp
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: （不会又要变身了吧） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 因为密封盒，胶卷得以完美地保存，从中冲洗出了 28 张照片。 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 最开始照片的内容主要是不知何处的丛林风景，偶尔可见洁曼和曼妮的身影 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 而随着顺序的推移，不知是因为天色渐暗还是进入密林深处，照片明显变暗 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 最后几张照片最为诡异，镜头似乎很晃动，因此照片很模糊，一张隐约可见似乎是在森林中有房屋轮廓的建筑，一张则是不知为何拍着一颗凌乱金发脑袋的后脑勺， 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 还有一张像是好几只沾满泥土的脚。 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: （这个金发是那个画像中的吗） 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: （很浅很浅的金发） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （那个画像是不是两个金发一深一浅来着、） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 狗子观察了照片中的金发，发色很浅，看起来就像是那张绘画中的一样 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （可以可以） 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: （聪明的狗子） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （汪汪队立大功） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: “嘟嘟嘟” 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 艾洛琳的手机又响了起来，是派珀的来电 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: ”...喂？“ 
+changeFigure:role_10292_sprites_10464.png -left -next;
+派珀·威尔逊: #派珀的声音听起来略带憔悴，“喂，是艾洛琳警官吗，医院出结果了” 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: What's the result 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: #沉默的听着 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: Jack? 
+changeFigure:role_10292_sprites_10422.png -left -next;
+派珀·威尔逊: “通过DNA对比，已经证实了车上的尸体是杰克” 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: #似乎有些失望又似乎松了口气”好...“ 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: What about another 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 杰克？ 
+changeFigure:role_10292_sprites_10464.png -left -next;
+派珀·威尔逊: “但是那个烧伤的人，她受到了Ⅲ度以上的深度烧伤，哪怕我的的医生全力抢救，但还是回天乏术，在抢救一小时后伤者因多器官衰竭抢救无效死亡” 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 之前咱们好像？ 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: Is she Grace? 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: ……身份确定了吗 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: "愿他安息...目前查出来他的身份了吗?" 
+changeFigure:role_10292_sprites_10422.png -left -next;
+派珀·威尔逊: “医院对尸体进行了简单调查，获得了死者的简单信息：死者为女性，年龄在 30 岁左右，B 型血，全身被浸润了汽油类助燃剂的布料包裹， 
+changeFigure:role_10292_sprites_10422.png -left -next;
+派珀·威尔逊: 死因为重度烧伤引起的休克和多器官衰竭。” 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: (岁数不对啊) 
+changeFigure:role_10292_sprites_10422.png -left -next;
+派珀·威尔逊: “但是由于医疗环境有限，无法进行进一步的调查了，可能要从到布里斯班的医疗中心才行” 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: (这又是谁我勒个豆) 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （hh） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （扑朔迷离对吧） 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: （怪不得是2022年的最佳） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （其实理论上来说只要这个死者生前哪怕去看过一次牙医，而且镇子里面有合格法医的话就能认出来是谁。不过模组需要，我肯定不较真） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （或许这里就没有牙科医院呢） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （真是越跑越扑朔迷离又有意思） 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: （差不多） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （毕竟这只是个小镇子） 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: （如果是dnd，我就上山了） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （那看样子这里长大的小孩儿从小就被家长严格限制吃糖否则长了蛀牙特别麻烦hhh） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （甚至只有一家家庭治疗中心，还没多少监控） 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: （coc还是算了） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: (毕竟是小镇) 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: （估计得去山上看一下了） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: ”好吧，至少应该不是格蕾丝...什么时候能把她运到医疗中心去？“ 
+changeFigure:role_10292_sprites_10422.png -left -next;
+派珀·威尔逊: “我联系了戈登维尔的殡葬服务公司，打算用棺材来安放并运输那具女尸去布里斯班” 
+changeFigure:role_10292_sprites_10422.png -left -next;
+派珀·威尔逊: “你们觉得杰克的尸体还有进一步化验的必要吗，要不要也一起带到布里斯班去” 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: （可以） 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: yes,I think it's important 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: ”当然是化验的越仔细越好 一块送过去吧“ 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 会不会跟鳄鱼肉差不多 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: (?) 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 都有致命物质 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: (?这什么奇妙联想) 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: （有点道理吧（） 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: （毕竟这是coc） 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: （什么都不意外） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （还真多多少少有点可能） 
+changeFigure:role_10292_sprites_10422.png -left -next;
+派珀·威尔逊: “好，那我就把这事跟殡葬公司说了，他们预计在明早就能完成追悼、出殡等一系列服务，到时候会用我们警署的运输车送去布里斯班，我到时候会和你们一同前往的” 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: ”行，也麻烦你了“ 
+changeFigure:role_10292_sprites_10422.png -left -next;
+派珀·威尔逊: “完毕，挂了” 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: ”bye“ 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 好了，现在在睡前还有最后一点时间 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: #放下电话后长出了一口气 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 你们可以互相讨论交流思路 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: #总之不管怎么说先给自己点上一根烟 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: The mountain is important 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （迟早黑肺） 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: I think we should climb it 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （真是，迟早得肺癌） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 我们要不留点肉 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: ”咱们复盘一下今天这么多经历吧....啧，真是丰富多彩的一天“ 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （谁的肉） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 万一真和鳄鱼肉有联系 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: (鳄鱼肉肯定是要留的) 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: （啊） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （还真是，过了这么久，现在还是8.3） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: (不是?) 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 对了爱洛琳 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 我教你个戒烟的方法 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: （对哦，没送两块鳄鱼肉去化验吗） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: "怎么了？" 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 你可以喝酒戒烟 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: ”........“ 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: （强） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （没有，你们没有提起化验鳄鱼肉这事） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （6） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 要喝点小酒压压惊吗 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （还是ryley有逻辑一点） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （染上酒瘾就戒掉烟瘾了） 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: （强大） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: #艾洛林沉默了一下，又拿起烟头送进嘴里，随后似乎是因为突然爆发的大笑而被烟气呛得咳嗽 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （但万一我用酒泡着烟草干嚼呢） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （完了） 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: (斯) 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （忘记化验了） 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: （强大） 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: （睡觉睡觉） 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: Sleep 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 明天咱们私下一起化验吧 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: #艾洛琳笑着对你们招招手，稍微消失了一会 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 没准化验部的有内鬼 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: zzz 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: zzz 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （我嘞个内鬼啊） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: #喝醉了 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: zzz 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （这还能内鬼的） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （ryley简直是曹操转世） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （） 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: （宁教我负天下人） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （我还有最后一点扮演呢RYLey你给我起来） 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: （不教天下人负我） 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: zzz 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （不准睡555） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （都睡了） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （明天的事情明天说） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: ？ 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 艾洛琳出去了一趟，回来发现队友全睡了 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: （咋了） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 爱洛琳 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: #回来时手上赫然提着一瓶杰克丹尼威士忌 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 怎么了 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 太好了 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （我们今天2小时dnd就跑了三个店） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 今晚咱们不醉不休 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （什么酒鬼） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: ”酒瘾戒烟瘾？就我自己来说不太可能“ 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （等下就叫你过灵感） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （过了就去见古神） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （我嘞个豆啊，初音还没传教成功，ryley竟然先成功了） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: （大成功节目效果拉满） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: ”那还是不太行...小酌两杯算了,接下来几天还有的忙呢“ 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （酒教） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 行#咕咚咕咚的喝 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: (别问问就是带入现实中自己的酒鬼烟鬼了) 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （好孩子不要学） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: （我这俩都不沾） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （hh） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （我也不沾） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （都睡了） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: #这瓶酒本来不是很多，恰好也就够这两位老酒鬼喝的比较痛快 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （我也准备了） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 那么，你们醉了吗 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （哎） 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: （过灵感是吧） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 我号称千。。。千杯不倒 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （要不过个体质决定） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 好，ryley醉了 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 体质是要的 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 灵感也是要的 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （过个灵感...） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 。rc灵感 
 changeFigure:role_2_sprites_138.png -left -next;
-骰娘: 掷骰结果：4+8=12   (2D8) 哇哦，12点呢，看来今天运气不错嘛的说～ 
-changeFigure:role_10046_sprites_10054.png -left -next;
-燃尽了: 。st hp 21 
+骰娘: 灵感检定：D100=88/50 失败 哎呀，这次的灵感有点小迷路了呢，下次一定能找到方向的说～ 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （好好好） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 如果你们有醉的迹象就要过 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: （坏事了） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 如果真的只是小喝而不是宿醉的话 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 就不用 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: ryley过体质检定 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: (灵感过了要出问题) 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 。rc体质 
 changeFigure:role_2_sprites_138.png -left -next;
-骰娘: 更新属性： {   "体力"： 21 } 好的，体力更新为21的说～ 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 此时，男人痛苦的大叫起来，然后我们的柯博悄无声息且快速的，冲到了二楼 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 然后看到德克萨斯，跟两个鬼族的认正在对峙 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: 柯博把大厅的人引到奴隶仓库之后从武器仓库偷偷潜入，迅速支援到了二楼 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: .r 2d10 
+骰娘: 体质检定：D100=79/60 失败 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: （裂开） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （我更喜欢有随机性一点 我骰个体质看过没过决定醉没醉吧） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （要吐了） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （你明天早上起来要头疼了） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 好，第二天早上ryley起来会感觉头痛，当天第一个检定吃劣势 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （。。。） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: 。rc体质 
 changeFigure:role_2_sprites_138.png -left -next;
-骰娘: 掷骰结果：4+9=13   (2D10) 哇哦，这数字挺吉利的说～ 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: .r 2d8 
+骰娘: 体质检定：D100=52/55 普通成功 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （喜欢喝酒） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （嗨嗨） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: OK，艾洛琳只是小醉而没有到ryley的程度 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 艾洛琳也过一个灵感 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: ”经典老牌，确实够醇厚“#眯着眼打量着空瓶子上的标签 随手把它扔进垃圾桶 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: 。rc灵感 
 changeFigure:role_2_sprites_138.png -left -next;
-骰娘: 掷骰结果：4+1=5   (2D8) 这次的结果是5的说～还算不错呢！ 
-changeFigure:role_10004_sprites_10015.png -left -next;
-苏茜: .r 1d10+1d8 
+骰娘: 灵感检定：D100=54/65 普通成功 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （哦） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: OK 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （huohuo） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （要出问题） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: (来罢，就喜欢不确定性) 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 今晚，大家都回到了床上睡觉 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 不同于ryley和猪一样的睡死，艾洛琳的醉意则表现在她的梦境很是活跃 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （哎呀） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 今天发生了如此多的事情，以至于在梦境中，这些景象都像是走马灯一样在回播 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 最后，画面定格在了那一晚，公路边，那个蠕动的烧焦女尸 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （要来力） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 她拼命地向着自己爬来，嘴中发出无声地求救 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 她是谁？ 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 一幅幅身影开始重叠在女尸的身上 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （怎么感觉不像坏事） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 格蕾丝？不是。派珀？她还活着。是谁？ 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （大概率好坏参半吧） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 是谁？在我认识在人中，有哪些人的特征是能对上的…… 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: （原来派伯是女的啊） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （你们才发现吗 啊这） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 30岁……死在山上…… 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （啊） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （我好像猜到了） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 突然，一个身影定格在了女尸的身上，并且开始和她同为一体 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （那个母亲） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 是 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （果然） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 洁曼吗…… 
+changeFigure:role_10294_sprites_10425.png -left -next;
+卑微KP: 艾洛琳仿佛看见了 
+changeFigure:role_10294_sprites_10425.png -left -next;
+卑微KP: 看见洁曼在大火中挣扎，看见汽油在她身上燃烧，看见她的皮肤于布料粘连在一块 
+changeFigure:role_10294_sprites_10425.png -left -next;
+卑微KP: 她在挣扎，她在呼喊，但最终……她死亡。 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （好坏参半） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （做包含情报的噩梦了） 
+changeFigure:role_10294_sprites_10425.png -left -next;
+卑微KP: “为什么……我为什么一定要死，我的女儿？我的女儿在哪？！她在哪？！” 
+changeFigure:role_10294_sprites_10425.png -left -next;
+卑微KP: 已经烧焦的尸体开始爬向艾洛琳，掉落在眼眶外的眼球盯着她，已经失去嘴唇的牙齿在打颤 
+changeFigure:role_10294_sprites_10425.png -left -next;
+卑微KP: “我的女儿……请……找到她……” 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: “啊！”，清晨降临了，艾洛琳一身冷汗，从床上惊醒 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: sc 1/1d3 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 头好痛啊 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 。st hp 9 
 changeFigure:role_2_sprites_138.png -left -next;
-骰娘: 掷骰结果：6+2=8   (1D10+1D8) 这个结果还算不错，挺稳定的说～ 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: .r 2d8 
+骰娘: 更新属性： {   "体力"： 9 } 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 昨晚没控制自己 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （我草看QQ） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （最大值呢） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （对的） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （无敌了~无敌了~） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （65的4/5是52哦） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: .st san 58 
 changeFigure:role_2_sprites_138.png -left -next;
-骰娘: 掷骰结果：1+5=6   (2D8) 这个结果挺中规中矩的说～ 
-changeFigure:role_10046_sprites_10054.png -left -next;
-燃尽了: .st hp 9 
+骰娘: 更新属性： {   "san值"： 58 } 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 酒喝完了，买点别的牌子喝吧 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （不是一天掉吗） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （哦，不对，已经第二天了） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: ( 对的嗨嗨) 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 服务员在哪里，有没有好酒 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （幸运捏） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （还喝） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （话说我刚刚又忘记切头像了） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （此时我们应该还没起床吧） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （到时候射击大失败就好玩了） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （坏坏KP） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: （玩的就是抽象） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （只要不炸膛就能修） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （打队友打出最高伤） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 你吓醒了 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （你roll出了大失败） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （背刺！） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （打向了xx） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （投掷伤害1d10=10） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （如果你们想要的话，可以用骰子决定一下谁先醒） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: ”操！....“#带着一身冷汗从床上惊起 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: (没必要吧) 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 干嘛大呼小叫的 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （这个影响不大） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 头好痛 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: (应该是我和哈利一个房间 你们俩在另一间房) 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 话说你们当时决定了谁和谁睡一屋吗 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: （没有） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 有的 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 我也记得是有的 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （房间有分配的） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （我和Ryley） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 初音初音，要来点薄荷糖吗 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #吃 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 初音醒来的时候应该会闻到房间里一股酒味，然后看到一个正在游荡的醉酒“僵尸” 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: (谴责你们早上起床不刷牙就吃东西) 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （我勒个去） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: (酒鬼真的是) 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: （我要耍酒疯吗） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （不应该是头痛吗） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 看你心情 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （一个晚上应该清醒了） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: ryley的体质比较特殊，她随时都能醉 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （应该说是行为比较特殊导致的吧hhh） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （什么醉拳体质） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （hhhh） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （吃完早饭上山了） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （我能多摇几个警察吗） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: #申请去买酒 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （多几个人一起上山） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 醒来后的你们都收到了派珀发来的信息，殡葬大概在9点结束，到那个时候会出发前往布里斯班，在这之前的时间你们可以自己安排 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （布里斯班在哪里） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （你们的总部） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （啊） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （一开始的地方） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （回去了） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: (我们等化验结果就行吧 应该不用回去) 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #把鳄鱼肉拿去化验 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: #招服务员买2L白酒 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （按道理来说应该要上山了） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （这活可是护送证物啊，作为办案人员的你们当然要随同） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （狗子去） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: ryley买到了酒 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （我们就不去了） 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: It's OK 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: emm，当真？ 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: (我觉得回去这个邪恶仪式就要完成了) 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: #起床洗漱后随便买些什么东西当早饭对付一下 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （啊） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （早上九点之前还能再逛逛呢 而且护送完后应该还能回来......吧？） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （真的可以只有狗子回去（） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （我还以为是剧情强制要求） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （我想想奥，模组说这里是护送证物来着，按理来说是必须要参加的，如果不接受就是违抗命令） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （那就回去吧） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （但是你提出了让狗子一个人去） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: (既然是命令那就得回去了) 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （所以这应该也算服从命令） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （你要这么做也可以） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （看你们了） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （我觉得回来就要打boss战了） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 现在是早上7点，距离九点还有一段时间 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （怎么说） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 你们进行了简单的用餐之后打算去干什么呢 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （能去那边的山上看看吗） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 能 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （摇人出发） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: "还是对那座山有些在意...趁早上这点时间去看看吧" 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: gogogo 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 有谁不想去的吗 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 应该没有吧 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: #跟上 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （酒鬼怎么说） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （醉了说是） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 跟着跟着 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 出发 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 不掉队不掉队 
+changeBg:E68888E5BEB7E696AFE4BCAFE58B92E5B1B1E8B7AF_1746368740274.webp
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: gogogo 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 拒绝做town in go 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 你们又一次来到了昨天那段山路 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 希望今天没啥事 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: If you be the town in go, I will laugh at you 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 这次的你们打算深入山林，尝试找到女尸的真相 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #全副武装 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #小心前进 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #防备周围 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: #四处嗅嗅 
+changeBg:E6A3AEE69E97_1746368816790.webp
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 骰追踪 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: 。rc追踪 
 changeFigure:role_2_sprites_138.png -left -next;
-骰娘: 更新属性： {   "体力"： 9 } 体力更新为9的说～ 
-changeFigure:role_10046_sprites_10054.png -left -next;
-燃尽了: "36技，走为上" 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: （哥们，不穿衣服从二楼跳出吗） 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 我们的反派，使用了终结点，成功的从二楼跳了出去，破窗而出 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: 柯博推门而入，“战况如何了！？” 
-changeFigure:role_10004_sprites_10015.png -left -next;
-苏茜: 看向旁边被捆住的两人 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 然后柯博一眼就看到了，酒馆老板一样的女人，躺在大床上 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: #看到笼子里和床上被龟甲缚的女人，“哇哦~什么鬼，玩这么花的吗” 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 。r 2d8 
+骰娘: 追踪检定：D100=83/70 失败 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: （c） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 。rc追踪 
 changeFigure:role_2_sprites_138.png -left -next;
-骰娘: 掷骰结果：1+6=7   (2D8) 这个结果挺不错的，看来运气还不错嘛的说～ 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: .r 2d8 
+骰娘: 追踪检定：D100=7/10 普通成功 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （哇） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 。rc追踪 
 changeFigure:role_2_sprites_138.png -left -next;
-骰娘: 掷骰结果：3+8=11   (2D8) 这个点数看起来挺不错的，刚好是中间值的说～ 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: #看到拿着短剑的苏茜，“敌人呢？去哪了？我听到外屋德克萨斯在战斗” 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 。r 2d8 
+骰娘: 追踪检定：D100=20/10 失败 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （我勒个去） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: （555） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: 。rc追踪 
 changeFigure:role_2_sprites_138.png -left -next;
-骰娘: 掷骰结果：7+4=11   (2D8) 哇哦，这数字挺吉利的说～ 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 。r 2d8 
+骰娘: 追踪检定：D100=31/10 失败 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （10都能成） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: (可以可以) 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: （喝酒误事） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: ryley还有个劣势 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （再来） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 骰什么 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 追踪 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 。rc追踪 
 changeFigure:role_2_sprites_138.png -left -next;
-骰娘: 掷骰结果：1+2=3   (2D8) 看来今天运气一般般呢，继续加油的说～ 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 。r 2d10 
+骰娘: 追踪检定：D100=25/10 失败 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: OK 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （我成了） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: cheems过体质 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: 。rc体质 
 changeFigure:role_2_sprites_138.png -left -next;
-骰娘: 掷骰结果：5+8=13   (2D10) 这个结果还不错哦，挺稳定的说～ 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 。r 2d8 
+骰娘: 体质检定：D100=99/55 大失败 哎呀，这体质检定结果真是有点惨淡呢，得多锻炼身体的说～ 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （hh） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （不） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （狗子） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 那好吧 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （你不要走） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: cheems先给我控制了 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （啊） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （这个要控制啊） 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: （骰什么） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 别急 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 我先描述 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 你们深入到森林里，林间树木繁茂，难以辨别方向 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 手机 gps 定位也开始失灵 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 未经探索的山林危险而恐怖 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: （不会要团灭吧） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 但好在初音凭借着自己学过的知识还能勉强跟踪痕迹 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: （我呢） 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: （你都没过） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 或许是过于专注于追踪痕迹了，没有一个人察觉到cheems的异样 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: （原地喝酒等待） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: #酒，薄荷糖，享受ing 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: (草) 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: （狗子都入魔了） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 随着你们的不断深入，cheems的身体开始颤抖，但因为警犬的素养，让它在这种最终时刻没有叫喊出来，直到…… 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 它感觉自己失去了意识 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 。r1d4 
 changeFigure:role_2_sprites_138.png -left -next;
-骰娘: 掷骰结果：3+1=4   (2D8) 这个结果有点小哦，看来运气还需要再加把劲的说～ 
-changeFigure:role_10004_sprites_10015.png -left -next;
-苏茜: “敌人逃跑了” 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 。r 2d8 
+骰娘: 掷骰结果：2=2   (1D4) 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: （怎么攻击） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: （搜了一下，不能喝酒加薄荷糖） 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: （撕咬还是扑击） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: （刚刚当我没说） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: “汪！”，在你们没有反应过来的时候，cheems一口咬向了正在喝酒的ryley 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （草） 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: 。rc撕咬 
 changeFigure:role_2_sprites_138.png -left -next;
-骰娘: 掷骰结果：3+7=10   (2D8) 嗯，这结果挺中规中矩的说～ 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: “诶呀算了！既然人质已经在这里了，带着她直接走了吧” 
-changeFigure:role_10004_sprites_10015.png -left -next;
-苏茜: ”先解救目标吧“ 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 你们要先救谁 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: （笼子里的人什么反应） 
-changeFigure:role_10028_sprites_10027.png -left -next;
-克里斯蒂娜: 呜呜 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: “什么鬼啊，为什么这里也有个人质啊” 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 他的嘴巴被堵着 
-changeFigure:role_10004_sprites_10015.png -left -next;
-苏茜: #摘下妖精嘴里的布”你是谁，为什么在这“ 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: “这个屋子里究竟发生过什么啊” 
-changeFigure:role_10028_sprites_10016.png -left -next;
-克里斯蒂娜: 呜呜呜误 
-changeFigure:role_10028_sprites_10029.png -left -next;
-克里斯蒂娜: 我是，来自精灵国的妖精 
-changeFigure:role_10028_sprites_10029.png -left -next;
-克里斯蒂娜: 被精灵卖到这里的 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: “停停停！你们别聊天了，我们还在敌方的大本营呢” 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: “这个猫娘，你快去把小女儿松绑了” 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: “我来试着打开这个笼子” 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: 。r 2d10 
+骰娘: 撕咬检定：D100=23/60 困难成功 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: （woc） 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: （痛击我的队友） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 。r1d6-1 
 changeFigure:role_2_sprites_138.png -left -next;
-骰娘: 掷骰结果：1+8=9   (2D10) 不错哦，9点是个挺好的数字的说～ 
-changeFigure:role_10025_sprites_10010.png -left -next;
-德克萨斯: 。r 2d10 
+骰娘: 掷骰结果：5-1=4   (1D6-1) 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 卧槽！ 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: cheems一口咬在了ryley的大腿上 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 这傻狗 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: #给狗灌酒 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 几乎是快要咬掉一块肉 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: emm 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: hh 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 卧槽 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 灌酒吗 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: （能反击吧） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 这我还真没预料到 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （这怎么灌） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: （开枪吧） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 好好好 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: （打晕算了） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 我要开枪惹 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 那么 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （而且你不痛么） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 啊啊啊啊 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: （斗殴） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 盖亚！ 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （草） 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: （喝酒进狂暴了） 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: （不！） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （酒杀） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （cheems不要走） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: cheems一边咬着ryley的大腿，而ryley也一直沿着大腿在给cheems灌酒 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: #掏枪对准狗 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （别打我可爱警犬） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （啊） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 就这样灌了十几秒后 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （会喝醉的吧） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 狗子沉沉地睡去了 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 发出了均匀的鼾声 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （还撑住了十几秒） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 战斗轮结束 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: #sleep 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （快笑死了） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 我嘞个灌酒仙人啊 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: #白酒浇腿上 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: （消毒） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 我是真没想到还有这招 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （急救一下） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 救命啊！ 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （确实啊） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: #赶快走上前去给消毒包扎一下 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: （玩的就是想不到） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: “你这直接把白酒淋上去消不了什么毒的...” 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 过 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 艾洛琳过急救 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: 。rc急救 
 changeFigure:role_2_sprites_138.png -left -next;
-骰娘: 掷骰结果：7+10=17   (2D10) 这个结果相当不错呢，看来运气挺好的说～ 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: “这鬼笼子怎么这么硬啊” 
-changeFigure:role_10004_sprites_10015.png -left -next;
-苏茜: “明明穿着那么重的铠甲，原来这么没力气吗” 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 。r 2d8 
+骰娘: 急救检定：D100=21/73 困难成功 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （哇） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （嗨嗨） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （妙手回春） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: （医术高超） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 这傻狗醉了 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 正确的医疗知识成功稳定了ryley的伤势 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 谁来检查一下 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: zzz 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 不行就毙了 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （这就是巡警的急救啊嗨嗨） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 不要动我的cheems 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: ryley的hp+1 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #发出悲鸣 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 这狗发什么电？ 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （困难不能+2吗） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 同时之后的检定也没有劣势了 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 那行 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 是不是被感染了，狂犬病不能留啊 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: ryley的hp+1d2 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: “警犬算是警局的公有财产 如果你真打算开枪不光得扣工资还得写和你办公桌差不多厚的报告” 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 他都袭警了 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （骰） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （真的是这样吧大概） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 。rc1d6 
 changeFigure:role_2_sprites_138.png -left -next;
-骰娘: 掷骰结果：7+5=12   (2D8) 这结果挺不错的嘛，看来今天运气不错哦的说～ 
-changeFigure:role_10004_sprites_10015.png -left -next;
-苏茜: “我来” 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 。r 2d8 
+骰娘: 执行错误：未设置 1d6 属性值 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （。r1d2 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: .rc1d2 
 changeFigure:role_2_sprites_138.png -left -next;
-骰娘: 掷骰结果：5+2=7   (2D8) 看来今天运气不错嘛，刚好是个中等偏上的结果的说～ 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: 回复苏茜，“唉，还是怕太用力伤到里面的女士了” 
-changeFigure:role_10004_sprites_10015.png -left -next;
-苏茜: .r 2d8 
+骰娘: 执行错误：未设置 1d2 属性值 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 去掉c 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: r1d2 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: .r1d2 
 changeFigure:role_2_sprites_138.png -left -next;
-骰娘: 掷骰结果：6+1=7   (2D8) 这个结果挺不错的，看来运气不错呢的说～ 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: .r 2d8 
+骰娘: 掷骰结果：1=1   (1D2) 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 那好吧 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （。） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: (完全一致) 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: hp+1 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 不行，再怎么说， 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 这狗赔我的酒 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 我赔你 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: “我觉得让未来陪你更现实些” 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （ 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 5w欧元 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 一口价 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 初音护犬心切啊 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （还有callback） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 支付宝到账100元 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: hhh 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 初音弄丢的5w 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 原来是要赔在这里啊 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: (笑不活了) 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 就一百？ 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 本钱都不够啊 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 这个月工资给你 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 有钱好商量 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 再要没了 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （100无论是澳币还是欧元都有500或1000RMB了） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 果然是知己 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （考虑到初音才刚刚实习转正） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 兄弟咱们也小酌一杯吧 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （这确实有可能是她一个月的工资） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 一笑泯恩仇 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 我不喝酒 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （你不喝酒？那你就是坏人！） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （什么鬼） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （杀！） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 总之 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 在初音付出自己一个月的工资为代价之后 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （对哦） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （不然跑不完了） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 总算是稍微平息了ryley的怒火 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 你们也继续沿着痕迹探索 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 谁来带着cheems 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 谁力量大一点啊 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （我力量才40） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （大约的确是哈里了） 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: #一只手抓起狗头 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: （ 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 6 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （草） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （抓起狗头没绷住） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （醒来应该不会被控制了吧） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （提抖放哈了要） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （哈！） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 总之 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 在探索了大约半个小时后，你们来到一片明显有人类痕迹的地方：周围的树木有砍伐的痕迹，地上堆积着几处食物残羹，散发出酸臭味，一些木工、烹饪和清洁用品放在一边， 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 片刻后不远处会飘来一阵烟雾，带有浓重的草药香气。 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 不愧是硬汉 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 你们向着烟雾的方向前进 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 没一会儿就会看到一个灰色的帐篷支撑在林中。呈三角形的防水布制成的帐篷内外都很脏乱，从卷起的门能看到里面有三张简易床、生活用品和衣服。 
+changeBg:E5B890E7AFB7_1746369969045.webp
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 帐篷前正架着一个石头围成的篝火，篝火之上是树枝架子，上面摊开着一层乱七八糟的花果草药，正是烟雾的来源。 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 两个穿着脏旧衣服的孩子正在帐篷内外追逐打闹，他们看起来不超过八岁，身材瘦小，皮肤苍白，头发凌乱，女孩和男孩分别有着淡金色长发和棕发。 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: （不用过体质清醒吗） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （找到了！） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （不用过） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （狗子先睡觉吧） 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: zzz 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #去搭话 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 小朋友，你们好啊 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 直接去搭话吗 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #先观察 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 先观察四周吧 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #先观察周围情况 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 那行 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （他们观察四周的话我就观察一下这两个孩子） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 我就不去了，小朋友不喜欢喝酒的姐姐 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #看看有没有异常 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 你们找了个隐蔽的地方打算先观察一下再行动 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 随着你们的观察，你们也发现了一些不对劲的地方 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 这两个孩子，无论他们如何行动，他们都只会待在篝火和帐篷附近，像是有一个无形的结界。 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （这是要结局了吗） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 同时让你们感觉到异常的是，他们的玩耍是无声的——仿佛在看一场默片，即使他们咧开嘴、做出笑或是生气的表情也不会发出任何声音，只有格外清晰的踩在草叶上的脚步声。 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （不至于这么快吧） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （woc，二次元化了） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 你们继续观察着他们 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 他们始终保持着无声的状态，直到…… 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （要变身了） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 小朋友，吃薄荷糖吗 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 男孩在女孩抓挠下发出了一声疼痛的叫喊。 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （emm） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 你们要的话过来吧 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （你怎么又A上去了） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （你们有人打算阻止ryley吗） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 我 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 阻止一下 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 我觉得会出问题 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: #试图一把抓住她的袖子给拉回来 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 那我继续了 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 我不想团灭啊 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 就在男孩发出声音的那一刻，你们看到他脸上的表情瞬间变成了恐惧 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 女孩则突然面露凶光，用瘦弱的双手抓起一截没烧化的粗树枝，对着男孩毫不留情地猛打起来。 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 而这时你们也注意到了，男孩有明显的面部畸形、女孩骨瘦嶙峋并且和儿童绘画上的女孩外表相似。 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （我能过个克苏鲁吗） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （显然不能） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 快跑！ 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （难道我刚刚的描述里有克苏鲁元素吗） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 好了，你们打算怎么行动呢 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #侦查一下 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 具体侦查什么 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: （哪个女孩，最右边那个金发的吗） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #仔细看女孩和男孩，还有似乎存在的结界 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （浅色金发） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 右二 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （这画也没男孩啊） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: #把薄荷糖扔旁边 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （我们有人会手语么） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: #然后跑路 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: ryley扔到哪里 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （唇语吧） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 往他们那边扔吗 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （别润啊） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （等我先侦查完吧） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （不要坑队友啊） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （/(ㄒoㄒ)/~~） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 初音过侦查 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 。rc侦查 
 changeFigure:role_2_sprites_138.png -left -next;
-骰娘: 掷骰结果：6+7=13   (2D8) 哇，13点的说～这数字看起来挺吉利的！ 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: （这个妖精长得怎么样） 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 。r 2d8 
+骰娘: 侦查检定：D100=85/80 失败 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （c） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 你的目光只是到处飘忽，没有看出来什么 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （都过一个吧） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 。rc侦查 
 changeFigure:role_2_sprites_138.png -left -next;
-骰娘: 掷骰结果：1+5=6   (2D8) 这个结果还算不错，挺平衡的说～ 
-changeFigure:role_10004_sprites_10015.png -left -next;
-苏茜: #换剑砍 
-changeFigure:role_10004_sprites_10015.png -left -next;
-苏茜: .r 1d10+1d8 
+骰娘: 侦查检定：D100=46/60 普通成功 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: 。rc侦查 
 changeFigure:role_2_sprites_138.png -left -next;
-骰娘: 掷骰结果：3+3=6   (1D10+1D8) 这数字挺和谐的说～ 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: “那那那，那个黑老大的小女儿，我来给你松绑，快来帮忙救人啊” 
-changeFigure:role_10004_sprites_10015.png -left -next;
-苏茜: ”这笼子还真硬喵“ 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: #一边松绑一边说，“我一眼就能看出来你比我都有劲，你的话肯定轻而易举就能掰开这个笼子” 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: “诶，你别说，这穿着盔甲还怪难松绑的” 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: over 
-changeFigure:role_10047_sprites_10055.png -left -next;
-像酒馆老板的小女儿: “谢谢你，我的白马王子” 
-changeFigure:role_10047_sprites_10055.png -left -next;
-像酒馆老板的小女儿: 。r 2d10 
+骰娘: 侦查检定：D100=61/65 普通成功 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: 。rc侦查 
 changeFigure:role_2_sprites_138.png -left -next;
-骰娘: 掷骰结果：9+10=19   (2D10) 哇哦，这数字可真不小呢！看来运气不错嘛的说～ 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 我们的小女儿，一下就打开了我们的笼子 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 准确来说，是掰开 
-changeFigure:role_10004_sprites_10042.png -left -next;
-苏茜: #震惊.jpg 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: “我去，真是力拔山兮气盖世” 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 就像林黛玉倒把垂杨柳一样 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: “我早就看出来你武力超群啊” 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 轻松且写意的掰开了笼子的铁栏杆 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: “我们快点叫上德克萨斯逃离吧” 
-changeFigure:role_10004_sprites_10042.png -left -next;
-苏茜: ”所以这样的人是到底怎么可能被抓住的喵“ 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 而我们的妖精顺手且顺便的逃了出去 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: “我看她在外面都杀疯了” 
-changeFigure:role_10025_sprites_10010.png -left -next;
-德克萨斯: 撤，敌人已经注意到我们了 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: “跳窗吧，各位！” 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: “我在下面接住你们” 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: 1，2，3，跳！ 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: 跳进染缸~ 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: 。r 2d8 
+骰娘: 侦查检定：D100=79/75 失败 哎呀，差了那么一点点呢，下次加油哦的说～ 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （侦查） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 你们尝试判别那好似存在的结界，但貌似什么也感受不到。至于那女孩，你们感觉她和照片上的女孩很相像，并且都有着浅黄色的头发 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （能对这个结界神秘学吗） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （不能） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （那丢薄荷糖吧） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 好 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #准备作战 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #拔刀 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: （我侦查成功了） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （一样的） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （都是一样的结果） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: #给抢上膛 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （又不是困难大成功） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: #瞄准女孩 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （Ryley丢薄荷糖吧） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: #丢薄荷糖 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （不然我都要找块石头丢一下） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: #手放在枪套上 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: ryley丢出了一颗薄荷糖，薄荷糖在空中划出了一道优美的弧线，但好像没有接触到什么“结界”一样，很顺利地就丢到了那两个小孩的面前， 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 被薄荷糖吸引的两个小孩也停止了打闹，而是朝你们的方向大喊了一声 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （kp要变身了） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: “喂，你们是谁，能请你们离开吗” 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 猝不及防的，你们的身后传来了一个男人的声音 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （骇似我力） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （吓我） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: #回头持枪对着声音来源 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #防备 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 初音我们打掩护 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 被吓了一跳，你们转过身去，这是一个 20 岁上下的男人，面部呈现宽眼距和外翻嘴唇的畸形，手中紧握着一柄最大尺寸的斧头 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 我盯着后面 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 你是谁，拿着武器干什么 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 把斧头放下！ 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 看到你们将枪对准了他，男人也将斧头对准了你们，“最后一次警告，离开这里” 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 别慌，我们只是上来问几个问题 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （tips） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （申请魅惑） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （我草要开始了么） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （根据法律，即使你们的身份为联邦探员，在没有搜查令或是任何明确证据的情况下都不得入侵私人领地。） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: （实在不行走为上） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （啊，这是私人领地吗） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 初音的行为并不包含魅惑，驳回 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （谁知道呢） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: ciallo 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: （我打歪了了炸杠了） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （魅惑） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （毫无魅力的魅惑，过魅惑，吃劣势） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （那我再扮演一下） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 大哥，是这样的 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 我们最近查到这个山上发生了一些事情 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 所以我们就此上山 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 恳请你放下武器，我们这边也放下武器 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: “事情？什么事情？” 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 有一个女人，从这座山上爬下来 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 浑身烧伤 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: OK 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 不用过魅惑了 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 我们快撤 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 直接失败 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （啊） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （真的是他做的啊） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: “是吗，那我和你们没什么好说的了，赶快离开这个地方，在我数到3之前” 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （完蛋 他是不是要零帧起手了） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: “1” 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （战斗吧） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: “2” 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: “3” 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #假装逃跑 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 战斗轮，开始 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （打晕吧） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （战斗！） 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: #拔枪 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （能不能假装逃跑偷袭啊） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: #同拔枪 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （你倒数太快了...） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （先攻表貌似还没修） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 跑啊 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 我们走 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 走了走了 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （我感觉已经挺慢了） 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: （不算枪吗） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （逃跑准备偷袭啊） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （3秒都被我拉长成20秒了） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 咱们不能交代在这里 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 来吧 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: （你就说逃跑的时候是谁背对着谁） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 把敏捷报上来 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 战！ 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （打字慢了唉） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （能看到我吗） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 初音我活着才能拿到钱，你活着我才有的拿 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （带枪120） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 我敏捷很高 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #拔刀 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: （110） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 我查一下 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: ryley120 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 男人50 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 孩童60 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （三个啊） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （我55） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （没点射击） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （我草） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 战斗开始，艾洛琳的回合 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （但我有62的斗殴） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 前往山下的路前是男人，背后的帐篷处则是两个孩童 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #我侧身防备两边 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: （双人CQB战术吧） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （先打男人吧） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （我想想哈） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （细说CQB） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （他感觉能一刀秒了我们） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （啥是CQB啊） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: （我把CQB发群里） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （同问） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （房屋清理） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （真要说的话在森林这块空场子上称不上CQB吧） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （我也觉得） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （先打吧） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: #瞄准男人大腿 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: 。rc手枪 
 changeFigure:role_2_sprites_138.png -left -next;
-骰娘: 掷骰结果：3+2=5   (2D8) 看来今天运气一般般呢，不过5点也挺不错的说～ 
-changeFigure:role_10004_sprites_10015.png -left -next;
-苏茜: 。r 2d10 
+骰娘: 手枪检定：D100=19/80 困难成功 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 瞄准心脏 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （woc） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 中！ 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 。rc手枪 
 changeFigure:role_2_sprites_138.png -left -next;
-骰娘: 掷骰结果：2+3=5   (2D10) 这数字挺中规中矩的说～ 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 然后我们的柯博，就跳到一个小石子上，倒在了地上 
-changeFigure:role_10004_sprites_10015.png -left -next;
-苏茜: .r 2d10 
+骰娘: 手枪检定：D100=21/60 困难成功 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 中！ 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （woc） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 两人都中了 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （都是战神） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 1d10 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 投掷伤害 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: （站在巅峰，就要遭到无尽的造谣和辱骂） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: 。r 1d10 
 changeFigure:role_2_sprites_138.png -left -next;
-骰娘: 掷骰结果：1+8=9   (2D10) 这个结果挺不错的，看来运气不错呢的说～ 
-changeFigure:role_10047_sprites_10055.png -left -next;
-像酒馆老板的小女儿: .r 2d6 
+骰娘: 掷骰结果：1=1   (1D10) 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 噗 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: (?) 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 。r1d10 
 changeFigure:role_2_sprites_138.png -left -next;
-骰娘: 掷骰结果：3+6=9   (2D6) 这个结果挺不错的，感觉运气不错呢的说～ 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: 柯博出目5，并没有稳稳落地，而是狼狈地在地上滚了一圈，但还是赶紧起身试图接住身后的队友 
-changeFigure:role_10004_sprites_10015.png -left -next;
-苏茜: 。r 1d10 
+骰娘: 掷骰结果：4=4   (1D10) 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （打出了最低的伤害） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 那很难绷了 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: （两人打了5点） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: （打心脏不击毙了吗） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: (修脚果然是行不通的) 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （这个是按伤害算的） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （你看你这4的伤害，显然是没打到心脏啊） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （哈里出击） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （我觉得除非是投出大成功否则都不能算击中心脏吧） 
+changeFigure:role_10351_sprites_10507.png -left -next;
+哈里·卡拉汉: 。rc手枪 
 changeFigure:role_2_sprites_138.png -left -next;
-骰娘: 掷骰结果：9=9   (1D10) 完美命中，这运气真是杠杠的说～ 
-changeFigure:role_10025_sprites_10010.png -left -next;
-德克萨斯: 。r 2d10 
+骰娘: 手枪检定：D100=11/70 极难成功 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 冲 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （看伤害的） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （woc） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （都是战神） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （全是枪神） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 极难造成穿透伤害 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 2d10伤害投掷 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （防弹衣吗） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （不是） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （是极难成功的奖励） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （穿人） 
+changeFigure:role_10351_sprites_10507.png -left -next;
+哈里·卡拉汉: 。r2d10 
 changeFigure:role_2_sprites_138.png -left -next;
-骰娘: 掷骰结果：3+4=7   (2D10) 这个结果挺中规中矩的说～ 
-changeFigure:role_10025_sprites_10010.png -left -next;
-德克萨斯: “嘁” 
-changeFigure:role_10004_sprites_10015.png -left -next;
-苏茜: 苏茜在跳跃时被窗台绊了一跤，但是好在稳住了身形 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 无双了半天的德克萨斯，被一个窗子绊倒了 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: 虽然柯博尝试接住自己的队友，但除了小女儿之外，好像没人愿意跳入他的怀抱 
-changeFigure:role_10004_sprites_10015.png -left -next;
-苏茜: 掉在了科博的身上 
-changeFigure:role_10004_sprites_10015.png -left -next;
-苏茜: 稳稳地踩了一脚 
-changeFigure:role_10004_sprites_10015.png -left -next;
-苏茜: 卸力稳稳落地 
-changeFigure:role_10004_sprites_10015.png -left -next;
-苏茜: ”有惊无险喵“ 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: “这边可是又险又惊啊！苏茜女士，这动作也太危险了”，柯博后怕地加紧双腿 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 此时，我们的妖精，战战兢兢的站在我们的窗户旁边 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 鬼族的3m5层高对1m2的妖精，就像是3层楼那么高一样 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: 柯博张开双手，“不是姐们，你在干嘛啊，快点跳下来，我能接住你的” 
-changeFigure:role_10028_sprites_10014.png -left -next;
-克里斯蒂娜: 。r 2d6 
+骰娘: 掷骰结果：4+9=13   (2D10) 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （哦，我还以为是很难造成穿透伤害） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （牛批！） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （比你们两个打得还高） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: (还没死啊） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （18） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （哈里瞄准的也是这个男人么） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （这就是硬汉的强度） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （战神！） 
+changeFigure:role_10351_sprites_10507.png -left -next;
+哈里·卡拉汉: （演员演过荒野大镖客） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （更强了） 
+changeFigure:role_10351_sprites_10507.png -left -next;
+哈里·卡拉汉: （你跟牛仔比枪术（）） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （上次的奈亚也才16吧） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 仿佛是提前看穿了艾洛琳的想法，在艾洛琳开枪之前，男人脚步微微一动，子弹仅仅只是造成擦伤，但这一躲却让ryley的子弹击中了男人肩膀，使他险些失去平衡。 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 而哈里则是趁着男人重心不稳，一枪精确命中了男人的心脏。 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （斩杀） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 随着子弹的名字，男人后仰躺在了地上，再也没了声息 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: （不如修格斯） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: (数值怪，一口吞） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 孩童的回合 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （牛批，直接解决） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 两位孩童在看到男人倒下之后，都冲向了初音发起了进攻 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 初音，反击还是闪避 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （两个人一起吗） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 分开 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 。rc斗殴 
 changeFigure:role_2_sprites_138.png -left -next;
-骰娘: 掷骰结果：1+5=6   (2D6) 这个结果挺不错的，感觉运气不错呢的说～ 
-changeFigure:role_10028_sprites_10034.png -left -next;
-克里斯蒂娜: 然后妖精结结实实的摔在了地上 
-changeFigure:role_10028_sprites_10033.png -left -next;
-克里斯蒂娜: hp -10 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: 柯博无辜地解释，“真不是我问题吧，我就站在这啊，怎么一个两个都跳不准啊” 
-changeFigure:role_10028_sprites_10033.png -left -next;
-克里斯蒂娜: 起来后一脸怨念的看着柯博 
-changeFigure:role_10025_sprites_10010.png -left -next;
-德克萨斯: 走吧，任务完成了 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: 一边跑一边说，“抱歉啊其他的女奴隶们，救不过来，真的救不过来” 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: 柯博扛着妖精在夕阳下和两位猫娘一起奔跑，心里想着，“干完这一票就有钱去旅游了，好耶！话说这个妖精该怎么办啊？” 
-changeFigure:role_10005_sprites_10052.png -left -next;
-柯博: #扛起妖精，“别这样看着我了，还是先逃跑吧！” 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 就这样，将来在大陆上留下赫赫威名 的 纯白魔盗团 
-changeFigure:role_10004_sprites_10015.png -left -next;
-苏茜: ”走吧，任务目标完成了“ 
-changeFigure:role_10045_sprites_10053.png -left -next;
-降星驰: 第一次协作，完成了 
+骰娘: 斗殴检定：D100=57/62 普通成功 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: （放手一搏吧，别顾虑太多） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 。st 斗殴30 
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 更新属性： {   "斗殴"： 30 } 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 。rc斗殴 
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 斗殴检定：D100=19/30 普通成功 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: （至少是男人该有的品格） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 中！ 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 第二个，反击还是闪避 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 。rc斗殴 
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 斗殴检定：D100=55/62 普通成功 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 。rc斗殴 
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 斗殴检定：D100=54/30 失败 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #击晕 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 反击成功 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 等等 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （不要打死了） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 你是要击晕吗 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 对的 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 用刀背 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 那你就不能用刀刃进行攻击 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 可以 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 。r1d8-1 
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 掷骰结果：6-1=5   (1D8-1) 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: .r1d8-1 
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 掷骰结果：3-1=2   (1D8-1) 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 那你的伤害降为1d4-1 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （好吧） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 。r1d4-1 
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 掷骰结果：2-1=1   (1D4-1) 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 能打到半血就晕 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: .r1d4-1 
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 掷骰结果：3-1=2   (1D4-1) 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 就一次啊 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 你只反击成功了一次 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: (那就第一个) 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 孩童1造成伤害 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 。r1d3 
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 掷骰结果：3=3   (1D3) 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （啊） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （到我了吧） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （男人死彻底没有） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （不然我上去补刀） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 面对两人的围攻，初音显然有些力有不足了，想着留个活口的念头，初音仅仅只是用刀背进行反击，但看起来并没有造成什么效果，却反而使自己被抓到机会，狠狠打了一拳 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 初音的回合 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 孩童2hp-1，初音hp-3 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 刀背攻击孩童2 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: .rc斗殴 
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 斗殴检定：D100=98/62 大失败 哎呀，这次的斗殴检定结果真是让人捏把汗呢，看来得回去好好练习了的说～ 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （woc） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （睡觉） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 打队友还是摔倒，你选吧 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （打队友吧） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （寄） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: hh 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （没伤害） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （byd） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 那好 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: ？ 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 正好啊 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （下个月工资也没了） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 之前埋下的伏笔是时候回收了 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （正好在哪😡） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 初音正打算上前进行一波猛烈的攻击！ 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （我草还有伏笔） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （不要告诉我狗子也复活了） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 但是她好像忘记了什么？ 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: “嗷~” 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （c） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （cheems醒了） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: “嗯？怎么好像踢到了什么” 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （应该是踢到cheems了） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （反正是刀背） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 没错！ 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 正是我们还在酣睡的cheems 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （希望不要痛击我的队友） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （爱狗TV） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 没想到啊没想到 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: （一枪送走） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 自己刚刚全力保下的爱犬，结果却被自己狠狠踹了一脚吗 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （c） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 初音投掷伤害，1d3 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 。r1d3 
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 掷骰结果：3=3   (1D3) 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 噗 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: (woc) 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: ！ 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 好重的一脚 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （痛击我的队友） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （痛击自己宠物） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 这一脚不仅让cheems完全清醒了过来，还险些绊倒了初音自己，这也让对方有了警惕，提前拉开了距离 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （是刀背攻击啊） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: “汪？” 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （刀刃的话我就摔倒了） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: cheems委屈地叫了，听起来就像在质问自己的主人，为什么要打自己一样 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （是的） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （但是显然这比较有意思） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （。） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 狗醒了？醒了就帮忙啊 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （初音拿刀重复但由于视野差没能看到脚下的狗子） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （刚刚醒来） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 我们快被怪物干掉了！ 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （你们都把最强的男人干掉了） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: cheems，hp-3，cheems恢复清醒，cheems加入战斗，cheems的回合 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （哦） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （原来是打cheems） 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: 。rc扑击 
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 扑击检定：D100=56/50 失败 哎呀，就差一点点就能成功了呢，下次加油哦的说～ 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: （我恨你） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 第二轮 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 艾洛琳的回合 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （还有两个小孩是吧） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 哦对了 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: cheems过一个体质检定 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （小孩我觉得不能杀） 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: 。rc体质 
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 体质检定：D100=50/55 普通成功 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: cheems成功从醉酒中恢复 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: cheems酒量真好 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: （留一个） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: （打断手脚） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: #略作犹豫后收起手枪拿出警棍 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （哇，这么残忍） 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: （好残忍啊） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （你们真的是警察吗） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （我都是用刀背了） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （打被刀背敲的那个小孩吧） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: OK 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （对的） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: （怪物要手下留情？） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 孩童2反击 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 骰命中吧 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （这不是怪物啊） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （反击能闪避么） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （不能） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 是你进攻啊 
+changeFigure:role_10348_sprites_10498.png -left -next;
+艾洛琳.席桑达: 。rc斗殴 
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 斗殴检定：D100=20/45 困难成功 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （哇） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 。rc斗殴 
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 斗殴检定：D100=80/30 失败 哎呀，这次手滑了呢，看来得加强训练了的说～ 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （欧克） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 艾洛琳命中 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 投掷伤害 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （我看看伤害） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （警棍1d6吧） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 正常伤害 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 1d6 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: 。r 1d6 
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 掷骰结果：1=1   (1D6) 哇哦，这是个大失败呢，看起来今天运气不太好啊的说～ 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: hh 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （逆天伤害） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 大家真是温柔呢 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: (?) 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 或许是过于在意留手了 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 我开枪了嗷 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （刀身的伤害比刀背高一点吗） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 导致并没有造成多少伤害 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: (精准命中但是手下特别留情说是) 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （刀身1d8-1，刀背1d4-1） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （你尽量打四肢） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （啊） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 。r1d10 
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 掷骰结果：4=4   (1D10) 正好是4的说～，这结果也是挺巧的呢！ 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 先投命中 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （刀身怎么和刀刃差不多） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: #对准四肢 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （你说刀身是指侧面？） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: ryley先投射击检定 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （对的） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （那和刀背一样） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （好吧） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 。rc射击 
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 执行错误：未设置 射击 属性值 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 。rc手枪 
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 手枪检定：D100=53/60 普通成功 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 手枪 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: OK 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 1d10骰伤害吧 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 如果 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 。r1d10 
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 掷骰结果：8=8   (1D10) 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 卧槽？ 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （哇） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 你刻意不瞄准要害 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 打死了？ 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 就投1d5 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （下手好狠） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （怎么选） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 。r1d5 
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 掷骰结果：2=2   (1D5) 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 行 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 我选1d10 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: ？ 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （你都骰了） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 到时候抢救吧 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 你选1d10吗 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （还选1d10） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （最不留活口的一集） 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: （崩死了怎么救） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: (真的是警察吗.jpg) 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: （未成年人保护法不存在了） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 那行吧 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 既然如此 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （打心脏了怎么办） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （真的是警察么） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 那ryley你打算直接采用8的伤害，还是重骰1d10 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: ryley？ 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （？） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 8 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 好好好 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 用最开始的那个 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （用4？） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: ？ 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 或许是喝了酒的缘故，ryley的下手并没有很好地克制 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （真下死手哇） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （我去） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: “啊！”，只听到一声惨叫，孩童的胸口泛起一阵血色，很快没了动静 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: （byd） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （不会要黑化吧） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （byd） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （这下还能尝试急救么） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （不能） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （死透了） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （小孩我都不舍得用刀刃啊） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （完蛋） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: （我的问题） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （1d8-1我都不舍得） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 下一个 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 哈里的回合 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: #一个箭步上前，准备肘晕孩童 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （MAN！） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: （没事，留一个就行） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 哈里是徒手格斗吗 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: 。rc斗殴 
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 斗殴检定：D100=64/75 普通成功 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 孩童反击 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: （他不交代喂它吃鳄鱼肉） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 。rc斗殴 
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 斗殴检定：D100=37/30 失败 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 哈里命中 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 投掷伤害 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 1d3+1d4 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （壮汉体格，小子） 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: 。r1d3 
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 掷骰结果：2=2   (1D3) 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: 。r1d4 
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 掷骰结果：2=2   (1D4) 哇哦，正好是2的说～ 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: -4 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （力道刚刚好，懵逼不伤脑） 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: （这小孩hp还不错啊） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 孩童1看到自己同伴的死去，还没来得及为她悲伤，就被哈里肘晕了过去 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 战斗轮结束 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 好了 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 现在你们有什么想做的 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: （之前哈里救轻生的人也是话疗后肘晕救下来的） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 绑起来拷问吧 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #先去看看那个结界 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 他到时候自刎归天就难办了 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （woc，什么警察） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 初音转了一圈，发现根本没什么结界 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （啊） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: #一个箭步冲上去试图把男孩救活，扯出随身医疗包时散落一地，当然最后都是徒劳 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #彻查周围 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （看看有什么汽油啊那些的） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （这个结界感觉不像是真的存在的） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 艾洛琳在冲上前查看孩童情况的时候就意识到了，子弹精确地命中了心脏，孩童早已没了气息 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 初音观察了一下周围，完全没有任何和结界有关的痕迹，真不知道为什么那个两个小孩会有那种表现 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: #搜刮男人尸体 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 把另一个捆起来防止暴动 
+changeFigure:role_10348_sprites_10501.png -left -next;
+艾洛琳.席桑达: #，收拾好医疗包，站起身，对着茂密森林闷闷抽烟 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 搜刮尸体ing 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （能查一下男人的身份吗） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （记得待会拷问小孩的时候防止她咬舌自尽） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （真的是警察吗） 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: （一般来说没办法咬舌自尽） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （也是哈） 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: （我这角色之前因为非法拷问被追责了来着） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 困住就行 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 上一枪打狠了可惜了 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （那很有经验了） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 哈里翻找了一下男人的身体，发现男人的身上几乎什么都没有，而男人的穿着，说是朴素，倒不如说是原始，上身是一件简单的白衣服，下身只有一条内裤，同时衣服也早已破旧不堪 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （感觉像野人） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （看看斧头有没有什么特别的） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 扒光看看 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: OK 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 时间到 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （啊） 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: （把斧头给初音用吧） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 在你们还打算进一步行动的时候 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 只感觉自己的脑袋开始变得晕乎乎的 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （woc） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （啊？） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （不会撕卡了吧） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （难道要团灭在此） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 你们只感觉烟雾好像越来越浓 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （不会团灭了吧） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 过一个意志检定 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 。rc意志 
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 意志检定：D100=10/60 极难成功 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 所有人包括狗子 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 。rc意志 
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 意志检定：D100=39/60 普通成功 嗯，看来这次表现还不错嘛，继续加油的说～ 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （woc） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: 。rc意志 
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 意志检定：D100=27/65 困难成功 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: 。rc意志 
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 意志检定：D100=71/55 失败 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: （喝酒的好处） 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: zzz 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: （保持清醒） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （狗子多灾多难） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 狗子你怎么又倒了 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: 。rc意志 
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 意志检定：D100=56/70 普通成功 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 这狗子多喝点酒就好了 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （坚定的像要入党） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 在你们完全失去意识，双眼闭合之前，你们最后看到的景象是，一群衣着朴素的人，从山的另一边出现，往帐篷这边走来…… 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: #不慌不忙，掏出酒杯，小酌一杯 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （那我呢） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 随后你们无法支撑，彻底失去了意识 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （也一样） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （啊） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （啊） 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: （啊） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 当你们再次醒来时 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 你们发现自己身处在进树林前的山路上 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 就在你们的警车旁 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （送我们回来了？） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 我们翻找一下 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 有没有什么不见了 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #找一下随身物品 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 而且不知为何，你们全身擦伤 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （特别不欢迎我们啊） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 所有人hp-1d3 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 。r1d3 
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 掷骰结果：3=3   (1D3) 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: (c) 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: 。r1d3 
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 掷骰结果：3=3   (1D3) 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 。r1d3 
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 掷骰结果：3=3   (1D3) 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: ？ 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: 。r1d3 
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 掷骰结果：2=2   (1D3) 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: (?) 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 都在干嘛 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 都想杀了你们的kp吗 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （我又要死了） 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: 。r1d3 
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 掷骰结果：3=3   (1D3) 哇，刚刚好掷出了3的说～ 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: (这群人下手这么重啊) 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 看来他们因为失去了三个队友，所以对你们下手很狠毒啊 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （我勒个去） 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: （？？？） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （？不是） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 往死里打啊 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （雨露均沾） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 妈的，早知道开闷枪了 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 你们急忙翻找了自己的随身物品，幸好他们都在，没有丢失 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: 。st hp7 
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 更新属性： {   "体力"： 7 } 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: ryley的酒当然也在 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （md，早知道一发克苏鲁送他们回家了） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: #喝酒麻醉自己缓解疼痛 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: （小孩呢） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: .st hp 3 
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 更新属性： {   "体力"： 3 } 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （是啊，小孩呢） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 你们现在在公路上 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 要根据之前的路线回去看看吗 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 先回去吧 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: （现在什么时候了） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （感觉再回去要被强制斯卡了） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 诶 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #记录一下，下次再来 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 终于有人问了这个问题啊 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 再折回去恐怕没这么简单了 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 哈里看了一眼时间 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 我去！ 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 8.50！ 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 距离9.00只剩10分钟了 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 哇，DDL 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （不豪！） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 冲锋！ 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 快走！ 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 你们开车 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #先记录一下 
+changeFigure:role_10348_sprites_10499.png -left -next;
+艾洛琳.席桑达: #还是赶快招呼同事们上车吧，顺便打电话给派伯让稍等一下 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #可以当副本刷了 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: OK 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （隔一段时间来一次） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 你们记录了这里的位置 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 并且打电话给了派珀 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （还有开放世界刷副本机制，可以可以） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 算了，这次斩草除根了 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 对了，初音 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （下次就不留情了） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 啥时候转给我那笔款 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 现金还是银行卡 
+changeFigure:role_10292_sprites_10422.png -left -next;
+派珀·威尔逊: “额……没事，你们能来得及就行”，派珀的语气听起来有些无奈，是不是早就预料到了呢 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （这个月工资发了吗） 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: （念 念 不 忘） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （念念不忘） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （上个月工资发了） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #转钱 
+changeFigure:role_10348_sprites_10501.png -left -next;
+艾洛琳.席桑达: “啊哈哈，不好意思啊派伯，到了跟你详细说说” 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #通过visa 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: (执法记录仪开着吗) 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （接下来很穷了） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （执法记录仪！） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 艾洛琳开启了竞速模式，一路风驰电掣，总算是赶在9点前到达殡葬馆了 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （别问 问就是没关过） 
+changeBg:E5B883E88EB1E8BFAAE6AEA1E891ACE69C8DE58AA1E4B8ADE5BF83_1746374422626.webp
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 今晚还要给别人守夜？ 
+changeFigure:role_10292_sprites_10422.png -left -next;
+派珀·威尔逊: “哦，你们来啦” 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: #进去前拍拍身上灰土，用车上纸巾擦掉脸上血迹之类的 
+changeFigure:role_10292_sprites_10422.png -left -next;
+派珀·威尔逊: #看了一眼时间，“8.59，你们还挺准时的” 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: “也还算是没迟到吧” 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #先看看执法记录仪 
+changeFigure:role_10292_sprites_10422.png -left -next;
+派珀·威尔逊: #敏锐地察觉到你们的伤痕，“怎么回事，你们看起来好像经历了什么一样” 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 我想想 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 所有人过幸运，除了狗子 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: “早逝我们确实有一段非常...难忘的经历” 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 。rc幸运 
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 幸运检定：D100=81/75 失败 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （c） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: 。rc幸运 
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 幸运检定：D100=39/55 普通成功 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （笑死我了） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 。rc幸运 
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 幸运检定：D100=84/55 失败 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: 。rc幸运 
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 幸运检定：D100=58/40 失败 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 好吧 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （怎么只有我成功啊喂） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 看来其他人当时晕倒时的姿势都不是很好，没有拍到什么画面 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （拍到了） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 但是艾洛琳的执法记录仪则是拍到了在你们晕倒之后发生了什么 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （霍霍夸张哦） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 在你们晕倒之后又来了一伙人，他们看起来就和你们当时遇到的男人一样 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 他们满脸怒气，对着你们拳打脚踢，毫不客气，随后又把你们扛起来，丢到了公路上，最后回到了山林之中 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #用手机查一下这些人 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （不是） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （至少不是什么超自然力量） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （查不出来的吧） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （不能吗） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （有外貌） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: #给派伯展示这些画面 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （有地点） 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: （到这份上了竟然没直接把我们砍死） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （人肉一下应该是可以的吧） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （2012的人脸比对有这么强吗） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 不过 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 咱们申请调用、 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 既然初音都提到了看脸 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （大概有吧？） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 那么正好 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 用权限查 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 你们也发现了不少细节 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 敢袭警牢底坐穿 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （对哦） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （我们是高贵的afp） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 用一个词形容 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 那就是 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 奇形怪状 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （凑野人欺负到联邦探员头上了） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 男性成员普遍都是褐色头发，脑袋的比例明显过大，五官肥硕，大部分都相貌丑陋，有兔唇、鱼眼等面部畸形。 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （那这不更容易查了） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 女性则金发碧眼、身材瘦小，像是骨架一样严重营养不良 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 那行 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （这种在2012年就很少见了） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 正好，你们要去AFP查人脸的话 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （用派出所的系统） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 也要回一趟布里斯班 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （回去回去） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （正好） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （推主线算了） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 那就出发吧 
+changeFigure:role_10292_sprites_10422.png -left -next;
+派珀·威尔逊: #派珀指了指身后如同装甲车一样的运输车，“准备好了吗，准备好了我们就出发了” 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: gogogo 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: “乖乖....这么大阵仗？” 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: #打量着这种看起来有些特别的运输车 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #顺带睡一觉 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （回一下hp） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 走吧 
+changeFigure:role_10292_sprites_10422.png -left -next;
+派珀·威尔逊: “官方最近将这次事件的严重程度升级了，认为最近的环境污染可能与这件事有关，所以我才能弄来这种货” 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 咱们还是注意安全 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 运输车分为前后两部分 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 可惜没有巴雷特给我用 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: “这样...看起来上头真挺重视这档子事的” 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （能升级装备吗） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （coc有没有克苏鲁萃魔武器） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 前部是驾驶室，总共有主驾驶和副驾驶两个位置。后部则是运输货物（棺材）的运输室，运输室两次有供人坐的座位。 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 我坐运输睡觉吧 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #在后面睡觉 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 这次除了派珀之外，还有一个驾驶员 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 你们可以商量一下谁坐后面谁坐前面，要是没人坐前面就是派珀了 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （双驾驶员？） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （不是） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （我要sleep） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （主驾驶已经定了，是派珀的一位同事） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #坐后面 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （懂了） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: #坐副驾吧 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: OK 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: #后面喝酒 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 给自己管一口酒 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 那就是艾洛琳坐副驾驶，其他人都在运输室 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 出发吧 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: （还在喝） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: gogogo 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: zzz 
+changeBg:00962-64112825-masterpiece, best quality,highway,1 boulder,countryside,mountain,tree_1746375340799.webp
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （能回血吗） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 你们终于启程，开始返回布里斯班 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （再不回我要倒下了） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 路上初音打算睡觉吗 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 还有其他人要睡的吗 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #睡 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 哦对了 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 在你们进入运输室的时候，发现运输室内只有一个棺材 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: #不睡觉，但是给自己伤口处理一下 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 啊 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （有人在监视吗） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （两具尸体塞一块？） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （不该吧） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 派珀向你们解释，由于时间不足来不及做两个棺材，所以只做了一个棺材，内部用木板隔开，把两个尸体放在了一起 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: （感觉待会要消失一具了） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 艾洛琳急救自己是吗 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 过急救检定 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （我怎么觉得像黑暗仪式） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: 。rc急救 
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 急救检定：D100=12/73 极难成功 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: hh 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （哇） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: +1d2吧 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （欧耶） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （快给我来一次） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: 。r1d2 
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 掷骰结果：2=2   (1D2) 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: (嗨嗨) 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （基本没扣） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: 。st hp9 
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 更新属性： {   "体力"： 9 } 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （其实已经过了急救时间了，因为你们是7点多上的山，醒来都8.50了） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （说明你们已经昏过去很久了） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: ( 也是) 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （但我给你们急救） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （现在后面有人在监视我们吗） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 要过急救的趁现在都过了 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （难道有事么） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （快来救救我） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （我是法师） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 我不会急救 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （那我能到后面去给他们包扎一下么） 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 我会喝酒 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 你们难道除了艾洛琳没人有急救了吗 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （没点） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （是的捏） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 好好好 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （会打出急救拳） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 那现在是在你们上车之前 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （团内唯一奶妈这一块） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 艾洛琳依此给你们每个人和cheems进行急救 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 艾洛琳声明目标后投掷检定 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 一个一个来 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （初音） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: 。rc急救 
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 急救检定：D100=75/73 失败 哎呀，这次的急救有点小失误呢，下次要更小心点的说～ 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: hh 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （？） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 难蚌啊 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （这个不算急救拳吧） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （真不是我不想啊） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 不算 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 只是没有成功罢了 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （没大失败不扣血） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #睡觉 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: zzz 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （ryley） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: .rc急救 
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 急救检定：D100=89/73 失败 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: (哇) 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （？？） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （骰娘我恨你） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （哈里） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （医者只会自医） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: 。rc急救 
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 急救检定：D100=75/73 失败 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: hhh 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 笑死我了 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （哇） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （？？？？？？） 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: （最后一个） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 还剩一个狗子 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （打出急救拳（） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （真打出急救拳就搞笑了） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （按这个骰子来的话） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （trytry） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: 。rc急救 
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 急救检定：D100=65/73 普通成功 这次急救表现还不错哦，算是顺利完成了任务的说～ 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 狗子hp+1 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （医者只会自医，和医狗） 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: 。st hp7 
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 更新属性： {   "体力"： 7 } 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 那么出发吧 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 有谁要睡觉的 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （自私自利的动物之友艾洛琳） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （能不能先悄悄地打开棺材看看里面） 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: #望向车外 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （要过什么） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （过潜行我就sleep） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 要悄悄的话，过潜行 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: #刷刷手机看看小镇和总部有没有什么值得注意的 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （能让狗子打开吗） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （。） 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （潜行劝退了属于是） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 艾洛琳尝试找找戈登维尔的信息，但是没找到什么 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （我潜行只有基础值） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 狗子也是偷偷的话，也要过潜行 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: 。rc潜行 
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 潜行检定：D100=61/40 失败 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: OK 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 既然如此 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 那么派珀发现了狗子的行动 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （笑死我了） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #睡觉 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: #装死 
+changeFigure:role_10292_sprites_10422.png -left -next;
+派珀·威尔逊: “那个……警官，或许你应该管一下你的警犬” 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 好的 
+changeFigure:role_10292_sprites_10422.png -left -next;
+派珀·威尔逊: “它看起来好像有些躁动啊” 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 喂口酒就行 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 听到没有cheems 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 没事，喝点酒就好了 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 好好睡觉 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 这狗通人性 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #睡觉 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: #睡觉 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: ryley一路都在喝酒是吧 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 哈里则是看向窗外景色吗 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （纯纯酒鬼啊） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （感觉要来遭遇了） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （ryley37度的体温里有98度的酒精） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: OK 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （爆笑如雷了） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 初音、cheems、ryley骰聆听吃劣势 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 哈里骰聆听 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 。rc聆听 
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 聆听检定：D100=77/75 失败 哎呀，差一点点就成功了呢，看来这次没听到什么重要的信息的说～ 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 。rc聆听 
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 聆听检定：D100=10/75 极难成功 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （啊） 
+changeFigure:role_10292_sprites_10422.png -left -next;
+派珀·威尔逊: 。rc聆听 
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 聆听检定：D100=13/35 困难成功 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （被吃了） 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: 。rc聆听 
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 聆听检定：D100=71/75 普通成功 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: 。rc聆听 
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 聆听检定：D100=29/70 困难成功 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: 。rc聆听 
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 聆听检定：D100=13/70 极难成功 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 。rc聆听 
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 聆听检定：D100=81/65 失败 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: （woc） 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: （双成功） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: OK 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 那么 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 在车辆行驶了差不多两个小时之后 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: （先把hp回了吧） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 时间已经从9点来到了正午时分 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: （时间不足，驳回） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （完了） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 封闭的车厢让环境变得闷热，这使得我们的狗子感觉到莫名地烦躁，睡不着 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: “喀拉” 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: cheems的耳朵抖了抖，好像有什么声音 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: “喀喀” 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: What can I say 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 没错，肯定有什么声音，从那个棺材里传出来的 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: cheems突然暴起，开始对着棺材狂吠 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （那我没听到，还睡着？） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （没事了） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 而cheems的动静也吵醒了其他人 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 狗子！ 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 你就是mvp! 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: “什么动静？”#回头 
+changeFigure:role_10292_sprites_10422.png -left -next;
+派珀·威尔逊: “嗯？这只警犬又怎么……不对！” 
+changeFigure:role_10292_sprites_10422.png -left -next;
+派珀·威尔逊: “它是不是察觉到了什么才会这样的！？” 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: Something bad is happening 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 此时的运输室内，一只cheems正在不停地对着棺材狂吠 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: It's coming 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 那么你们的行动呢 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: #拔枪，对准棺材 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 给棺材一枪 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #准备法术 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #能瞬发吗 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 直接开枪，不拖泥带水 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 你可以使用法术 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 话说你们都不停车的吗 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （对哦） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 停车！ 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: “靠边停车，再开估计会有什么事” 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #退后 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: “嗯？是发生什么了吗，后面好像有很大的动静啊？”，虽然还不明白当前的情况，但驾驶员按你们说的靠边停车了 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #准备法术 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: #随时准备使用 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 运输室的四人一狗都在紧张地盯着棺材，可是棺材中只是不断地发出“喀拉”的声音 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: “你们先把后门打开，别待会被堵死了” 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: #直接开了一枪 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （也行吧） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 驾驶员则还在状况之外，“是发生什么了吗，怎么突然要求停车” 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 还没等有人回答他，“砰！” 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 一声枪响从运输室传来 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: “后面那具棺材里面.....操！”#被吓了一跳 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 好了 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 艾洛琳在看着吗 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 驾驶室可以通过一个小窗口看到运输室的情况 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: #在前面看着 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （盲猜在看（） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: OK 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （变身！） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 随着ryley开枪，棺材上出现了一个破碎的小坑 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 随后棺材内传来了粘稠蠕动的声音 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: （噫） 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: “哗”，棺材盖滚落 
+changeFigure:role_10294_sprites_10425.png -left -next;
+卑微KP: 随着棺材盖的滑落，你们也看清了棺材内的情况 
+changeFigure:role_10294_sprites_10425.png -left -next;
+卑微KP: 死者那焦黄的死皮和暗粉色碎肉上正爬满了漆黑的胶状物，它们一刻也不停地流动着，从粘连在尸体皮肉上的焦黑碎布下钻来钻去，时而伸出像是蜗牛触角和毛虫凸起的尖端， 
+changeFigure:role_10294_sprites_10425.png -left -next;
+卑微KP: 甚至在眼球已经快要脱落的眼眶里打转。 
+changeFigure:role_10294_sprites_10425.png -left -next;
+卑微KP: 尸体还残存完好的一部分肉正在被溶解着，发出像是鱼嘴摩擦鲜肉的声音，从肌肉的缝隙里渗出密密麻麻黑色的油珠。 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 持续开枪 
+changeFigure:role_10294_sprites_10425.png -left -next;
+卑微KP: 随后立刻，它们开始借由铺满全身的流动着的力量，控制着这具尸体缓缓起身，头颅带着蠕动着的眼眶一起，转向了你们。 
+changeFigure:role_10294_sprites_10425.png -left -next;
+卑微KP: 随后，又是一具尸体站了起来，两具！这样诡异的存在有两个！ 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （我在后面） 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: （我了个去） 
+changeFigure:role_10294_sprites_10425.png -left -next;
+卑微KP: 目睹这一幕的所有人，进行sc 1d3/1d6。 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 战斗轮，开始！ 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 。sc 1d3 
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 未知命令 sc 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: 去q群sc 
+changeFigure:role_10348_sprites_10512.png -left -next;
+艾洛琳.席桑达: 。st san 55 
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 更新属性： {   "san值"： 55 } 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: 111 
+changeFigure:role_10292_sprites_10422.png -left -next;
+派珀·威尔逊: 。st san47 
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 更新属性： {   "san值"： 47 } 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: .st san 53 
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 更新属性： {   "san值"： 53 } 
+changeFigure:role_10294_sprites_10424.png -left -next;
+卑微KP: ryley也记录一下san 
+changeFigure:role_10351_sprites_10494.png -left -next;
+哈里·卡拉汉: 。st san68 
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 更新属性： {   "san值"： 68 } 
+changeFigure:role_10337_sprites_10496.png -left -next;
+Ryley: .st san58 
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 更新属性： {   "san值"： 58 } 好的，san值更新为58了的说～ 
+changeFigure:role_10344_sprites_10489.png -left -next;
+cheems: 。st san 49 
+changeFigure:role_2_sprites_138.png -left -next;
+骰娘: 更新属性： {   "san值"： 49 } 
+changeFigure:role_10348_sprites_10490.png -left -next;
+艾洛琳.席桑达: 1 
+changeFigure:role_10085_sprites_10158.png -left -next;
+初音末来: 2 
